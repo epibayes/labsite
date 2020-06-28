@@ -46,4 +46,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[A post]({{< ref "/projects/index.md" >}})
+[A post(test)]({{< ref "/projects/index.md" >}})
