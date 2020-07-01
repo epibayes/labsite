@@ -1,20 +1,20 @@
 ---
 # Display name
-title: "Nina Masters"
+title: "Alex Cao"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "firstname-lastname"
+- "alex-cao"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name:  University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,4 @@ user_groups:
 - Group 2
 ---
 
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models of infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/)
+Alex is a data scientist at the University of Michigan with CSCAR (Consulting for Statistics, Computing & Analytics Research). He helps researchers with their data science problems and teaches people about data science via workshops. He used to do research with surgical robots and NASA but now he makes predictive models and interactive data visualizations.

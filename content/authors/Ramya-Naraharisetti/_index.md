@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Nina Masters"
+title: "Ramya Naraharisetti"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "firstname-lastname"
+- "ramya-naraharisetti"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -67,4 +67,4 @@ user_groups:
 - Group 2
 ---
 
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models of infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/)
+Ramya is a doctoral student in the department of Epidemiology at the University of Michigan. She received her Masters of Science in Global Health from Harvard University and her Bachelors of Science in interdisciplinary social sciences from Michigan State University. Her research focuses on social inequality and the spread of infectious disease both domestically and in the Global South. She utilizes spatial analyses, hierarchical modeling and mathematical models to advance our understanding of these complex processes.

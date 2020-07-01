@@ -1,20 +1,20 @@
 ---
 # Display name
-title: "Nina Masters"
+title: "Paul Delamater"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "firstname-lastname"
+- "paul-delamater"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name:  University of North Carolina at Chapel Hill
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,4 @@ user_groups:
 - Group 2
 ---
 
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models of infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/)
+[Dr. Paul Delamater](http://delamater.web.unc.edu/) is an Assistant Professor in the Department of Geography, a Faculty Fellow at the Carolina Population Center and Sheps Center for Health Services Research, and an Associate at the Lineberger Comprehensive Cancer Center at the University of North Carolina at Chapel Hill. Dr. Delamater has particular interest in research relating to the spatial components of health care access and utilization, as well as disease modeling. He employs geographic information systems (GIS) and statistical/spatial analysis to better understand population health issues. His recent research has focused on understanding childhood vaccination, herd immunity, and vaccine-preventable diseases in the United States.

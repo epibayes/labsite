@@ -1,20 +1,20 @@
 ---
 # Display name
-title: "Nina Masters"
+title: "Ryan Malosh"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "firstname-lastname"
+- "ryan-malosh"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name:  University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,4 @@ user_groups:
 - Group 2
 ---
 
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models of infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/)
+Dr. Malosh is an Assistant Research Scientist at the University of Michigan School of Public Health. He is currently leading studies of herd immunity resulting from influenza vaccination of household contacts. Additional research interests include respiratory virus epidemiology and prevention, vaccine uptake, and social determinants of infectious disease. He is currently working on studies of COVID-19 in the household and community settings, with a particular focus on non-pharmaceutical interventions.

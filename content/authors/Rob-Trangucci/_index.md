@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Nina Masters"
+title: "Rob Trangucci"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "firstname-lastname"
+- "rob-trangucci"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name:  University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,4 @@ user_groups:
 - Group 2
 ---
 
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models of infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/)
+Rob is a PhD candidate in the Statistics department at the University of Michigan. His current research focuses on developing novel Bayesian statistical methodology for problems in epidemiology, and creating tools to understand how modeling assumptions impact inference. He has also done research in survey methodology. He got his Master’s in Quantitative Methods in the Social Sciences from Columbia University and his BA in Physics from Bucknell University.

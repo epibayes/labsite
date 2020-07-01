@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Nina Masters"
+title: "Kelly Broen"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "firstname-lastname"
+- "kelly-broen"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Doctoral Student 
 
 # Organizations/Affiliations
 organizations:
@@ -67,4 +67,4 @@ user_groups:
 - Group 2
 ---
 
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models of infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/)
+Kelly is a doctoral student in the department of Epidemiology at the University of Michigan. She received her Masters of Public Health from the University of Michigan in epidemiology and her Bachelors of Science in Human Health and Quantitative Sciences from Emory University. She is interested in spatial epidemiology and infectious diseases.
