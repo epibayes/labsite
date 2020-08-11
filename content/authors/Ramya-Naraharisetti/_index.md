@@ -4,7 +4,7 @@ title: "Ramya Naraharisetti"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "ramya-naraharisetti"
+- "Ramya-Naraharisetti"
 
 # Is this the primary user of the site?
 superuser: false

@@ -4,7 +4,7 @@ title: "Paul Delamater"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "paul-delamater"
+- "Paul-Delamater"
 
 # Is this the primary user of the site?
 superuser: false

@@ -4,7 +4,7 @@ title: "Alex Cao"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "alex-cao"
+- "Alex-Cao"
 
 # Is this the primary user of the site?
 superuser: false
