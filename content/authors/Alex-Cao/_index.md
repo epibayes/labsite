@@ -21,9 +21,9 @@ organizations:
 # bio: 
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+# interests:
+# - Interest 1
+# - Interest 2
 
 # education:
 #   courses:
