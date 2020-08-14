@@ -27,8 +27,8 @@ subtitle = "originally published online on May 01, 2018 at https://www.jonzelner
   [content.filters]
     tag = ""
     category = ""
-    publication_type = blogpost
-    author = admin
+    publication_type = "blogpost"
+    author = "admin"
     exclude_featured = false
   
 [design]
