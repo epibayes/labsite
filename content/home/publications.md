@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = blogpost
-    author = admin
+    publication_type = ""
+    author = "admin"
     exclude_featured = false
   
 [design]
