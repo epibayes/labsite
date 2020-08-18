@@ -22,7 +22,7 @@ subtitle = "originally published online on May 01, 2018 at https://www.jonzelner
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-<!-- color = "navy" -->
+color = "navy"
   
   # Background image.
   # image = "bg.jpg"  # Name of image in `static/img/`.
