@@ -2,9 +2,6 @@
 title: "How Infections Propagate After Point-Source Outbreaks"
 authors:
 - admin
-- King AA
-- Moe CL
-- Eisenberg JNS
 date: "2010-09-21T00:00:00Z"
 doi: "https://journals.lww.com/epidem/Fulltext/2010/09000/How_Infections_Propagate_After_Point_Source.26.aspx"
 
@@ -21,8 +18,7 @@ publication_types: ["2"]
 publication: Epidemiology
 publication_short: Epidemiology
 
-abstract: 
-Secondary transmission after point-source outbreaks is an integral feature of the epidemiology of gastrointestinal pathogens such as norovirus. The household is an important site of these secondary cases. It can become the source of further community transmission as well as new point-source outbreaks. Consequently, time-series data from exposed households provide information for risk assessment and intervention.
+abstract: Secondary transmission after point-source outbreaks is an integral feature of the epidemiology of gastrointestinal pathogens such as norovirus. The household is an important site of these secondary cases. It can become the source of further community transmission as well as new point-source outbreaks. Consequently, time-series data from exposed households provide information for risk assessment and intervention.
 
 Analysis of these data requires models that can address (1) dependencies in infection transmission, (2) random variability resulting from households with few members, and (3) unobserved state variables important to transmission. We use Monte Carlo maximum likelihood via data augmentation for obtaining estimates of the transmission rate and infectious period from household outbreaks with the 3 above features.
 

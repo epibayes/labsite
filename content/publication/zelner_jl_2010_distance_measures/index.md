@@ -2,9 +2,6 @@
 title: "Distance Measures for Dynamic Citation Networks"
 authors:
 - admin
-- Bommarito MJ
-- Katz DM
-- Fowler JH
 date: "2010-06-11T00:00:00Z"
 doi: "https://doi.org/10.1016/j.physa.2010.06.003"
 
