@@ -1,5 +1,15 @@
 ---
-title: "Projects"  # Add a page title.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
-type: "widget_page"  # Page type is a Widget Page
+title: Michigan COVID-19 Mapping
+summary: Tracking COVID-19's impact in Michigan.
+tags:
+- COVID
+- Epidemiology
+
+date: "2020-08-18T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: https://covidmapping.org/
+image:
+  caption: image of virus
+  focal_point: Smart
 ---
