@@ -10,6 +10,6 @@ date: "2020-08-18T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: https://covidmapping.org/
 image:
-  caption: image of virus
-  focal_point: Smart
+  caption: 
+  focal_point:
 ---
