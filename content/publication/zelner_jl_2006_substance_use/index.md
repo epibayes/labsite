@@ -2,7 +2,7 @@
 title: "Substance Use in a Statewide Population of Incarcerated Juvenile Offenders"
 authors:
 - admin
-date: "2005-05-00T00:00:00Z"
+date: "2005-05-09T00:00:00Z"
 doi: "https://doi.org/10.1300/J394v02n01_09"
 
 # Schedule page publish date (NOT publication's date).
