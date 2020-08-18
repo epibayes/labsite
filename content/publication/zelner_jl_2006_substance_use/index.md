@@ -15,8 +15,8 @@ publishDate: "2020-08-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Evidence-Based Social Work
-publication_short: J Evid Base Soc Work
+publication: "Journal of Evidence-Based Social Work"
+publication_short: "J Evid Base Soc Work"
 
 abstract: This study examined the prevalence and patterns of illicit drug use among a state population of 723 incarcerated juvenile offenders. In addition to alcohol and marijuana, results indicated high rates of illicit substance use involving a wide range of substances including amphetamines, opiate drugs, prescription drugs, and solvents. Further, significant gender and ethnic differences were observed with regard to alcohol and drug related problems, suicidal ideation, and age of substance use initiation.
 

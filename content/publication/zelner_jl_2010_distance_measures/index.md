@@ -15,8 +15,8 @@ publishDate: "2020-08-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Physica A
-publication_short: Physica A
+publication: "Physica A"
+publication_short: "Physica A"
 
 abstract: Acyclic digraphs arise in many natural and artificial processes. Among the broader set, dynamic citation networks represent an important type of acyclic digraph. For example, the study of such networks includes the spread of ideas through academic citations, the spread of innovation through patent citations, and the development of precedent in common law systems. The specific dynamics that produce such acyclic digraphs not only differentiate them from other classes of graphs, but also provide guidance for the development of meaningful distance measures. In this article, we develop and apply our sink distance measure together with the single-linkage hierarchical clustering algorithm to both a two-dimensional directed preferential attachment model as well as empirical data drawn from the first quarter-century of decisions of the United States Supreme Court. Despite applying the simplest combination of distance measure and clustering algorithm, analysis reveals that more accurate and more interpretable clusterings are produced by this scheme.
 
