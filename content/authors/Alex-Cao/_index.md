@@ -62,9 +62,8 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 Alex is a data scientist at the University of Michigan with CSCAR (Consulting for Statistics, Computing & Analytics Research). He helps researchers with their data science problems and teaches people about data science via workshops. He used to do research with surgical robots and NASA but now he makes predictive models and interactive data visualizations.

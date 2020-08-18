@@ -62,9 +62,8 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 Dr. Malosh is an Assistant Research Scientist at the University of Michigan School of Public Health. He is currently leading studies of herd immunity resulting from influenza vaccination of household contacts. Additional research interests include respiratory virus epidemiology and prevention, vaccine uptake, and social determinants of infectious disease. He is currently working on studies of COVID-19 in the household and community settings, with a particular focus on non-pharmaceutical interventions.

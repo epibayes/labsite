@@ -62,9 +62,8 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 Ramya is a doctoral student in the department of Epidemiology at the University of Michigan. She received her Masters of Science in Global Health from Harvard University and her Bachelors of Science in interdisciplinary social sciences from Michigan State University. Her research focuses on social inequality and the spread of infectious disease both domestically and in the Global South. She utilizes spatial analyses, hierarchical modeling and mathematical models to advance our understanding of these complex processes.

@@ -62,9 +62,8 @@ bio:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 Rob is a PhD candidate in the Statistics department at the University of Michigan. His current research focuses on developing novel Bayesian statistical methodology for problems in epidemiology, and creating tools to understand how modeling assumptions impact inference. He has also done research in survey methodology. He got his Master’s in Quantitative Methods in the Social Sciences from Columbia University and his BA in Physics from Bucknell University.

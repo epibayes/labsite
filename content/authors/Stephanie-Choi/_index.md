@@ -62,9 +62,8 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 Stephanie is a UI/UX designer. She is interested in making accessible designs so a diverse group of people can use the services and sites she creates. She received her Master of Science from the University of Michigan School of Information. Her [portfolio site](choisteph.github.io), features some of the projects she has worked on.

@@ -62,9 +62,8 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 [Dr. Paul Delamater](http://delamater.web.unc.edu/) is an Assistant Professor in the Department of Geography, a Faculty Fellow at the Carolina Population Center and Sheps Center for Health Services Research, and an Associate at the Lineberger Comprehensive Cancer Center at the University of North Carolina at Chapel Hill. Dr. Delamater has particular interest in research relating to the spatial components of health care access and utilization, as well as disease modeling. He employs geographic information systems (GIS) and statistical/spatial analysis to better understand population health issues. His recent research has focused on understanding childhood vaccination, herd immunity, and vaccine-preventable diseases in the United States.

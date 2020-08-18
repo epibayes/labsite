@@ -62,9 +62,8 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Group 1
-# - Group 2
+user_groups:
+- Team
 ---
 
 Kelly is a doctoral student in the department of Epidemiology at the University of Michigan. She received her Masters of Public Health from the University of Michigan in epidemiology and her Bachelors of Science in Human Health and Quantitative Sciences from Emory University. She is interested in spatial epidemiology and infectious diseases.
