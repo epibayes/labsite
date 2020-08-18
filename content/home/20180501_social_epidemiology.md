@@ -22,14 +22,14 @@ subtitle = "originally published online on May 01, 2018 at https://www.jonzelner
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-color = "black"
+# color = "black"
   
   # Background image.
-image = "bg.jpg"
-image_darken = 0.2
-image_size = "cover"
-image_position = "center"
-image_parallax = false 
+# image = "bg.jpg"
+# image_darken = 0.2
+# image_size = "cover"
+# image_position = "center"
+# image_parallax = false 
   
   # Text color (true=light or false=dark).
   text_color_light = false
