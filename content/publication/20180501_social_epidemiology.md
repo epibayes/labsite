@@ -22,7 +22,7 @@ subtitle = "originally published online on May 01, 2018 at https://www.jonzelner
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-color = "navy"
+<!-- color = "navy" -->
   
   # Background image.
   # image = "bg.jpg"  # Name of image in `static/img/`.
@@ -32,7 +32,7 @@ color = "navy"
   # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
