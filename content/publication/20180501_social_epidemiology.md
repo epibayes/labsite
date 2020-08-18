@@ -22,14 +22,14 @@ subtitle = "originally published online on May 01, 2018 at https://www.jonzelner
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-color = "navy"
+color = "black"
   
   # Background image.
-  # image = "bg.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+image = "bg.jpg"
+image_darken = 0.2
+image_size = "cover"
+image_position = "center"
+image_parallax = false 
   
   # Text color (true=light or false=dark).
   text_color_light = false
