@@ -31,7 +31,8 @@ tags:
 - Clustering
 - Judicial citations
 - Dimensionality
-featured: true
+
+featured: false
 
 links:
 - name: Online Access
