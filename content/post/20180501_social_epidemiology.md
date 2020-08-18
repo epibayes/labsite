@@ -1,51 +1,31 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+---
+title: Some light summer reading in spatial epidemiology
+subtitle: originally published online on May 01, 2018 at https://www.jonzelner.net/
+summary: Spatial Epidemiology
+authors:
+- admin
+tags: []
+categories: []
+date: "2018-05-01T00:00:00Z"
+lastMod: "2020-08-18T00:00:00Z"
+featured: true
+draft: false
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
 
-title = "Some light summer reading in spatial epidemiology"
-subtitle = "originally published online on May 01, 2018 at https://www.jonzelner.net/"
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-# color = "black"
-  
-  # Background image.
-# image = "bg.jpg"
-# image_darken = 0.2
-# image_size = "cover"
-# image_position = "center"
-# image_parallax = false 
-  
-  # Text color (true=light or false=dark).
-  text_color_light = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "0", "200px", "0"]
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-
-+++
 I just finished teaching my first course at Michigan, which was called Theory and Applications of Spatial Epidemiology. At the end of the term, one of the students asked for suggestions for further reading.
 
 Like so many topics in public health and the social sciences, ‘spatial epidemiology’ turned out to be an idea that only got blurrier and blurrier the more time I spent trying to explain what it was specifically: it involves space, place, inequality, environmental and climatic variation, and on and on and on. This made picking readings for the term - and beyond - more of a challenge than I had anticipated, although mostly in a good way.
