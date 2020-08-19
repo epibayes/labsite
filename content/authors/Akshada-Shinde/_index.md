@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Alex Cao"
+title: "Akshada Shinde"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Alex-Cao"
+- "Akshada Shinde"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Data Scientist
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,39 +21,37 @@ organizations:
 # bio: 
 
 # List each interest with a dash
-# interests:
-# - Interest 1
+interests:
+- Simulation based decision making support system
 # - Interest 2
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+
+  courses:
+  - course: MS Biomedical Engineering
+    institution: University of Michigan
+    # year: 2012
+  - course: BS Instrumentation and Control Engineering
+    institution: University of Pune
+    # year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+# social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/caocscar
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=VxBx-5YAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/caocscar
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alex-cao-19018918/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/USERNAME
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=PERSON-ID
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +66,5 @@ social:
 user_groups:
 - Team
 ---
-Alex is a data scientist at the University of Michigan with CSCAR (Consulting for Statistics, Computing & Analytics Research). He helps researchers with their data science problems and teaches people about data science via workshops. He used to do research with surgical robots and NASA but now he makes predictive models and interactive data visualizations.
+
+Akshada's current research focuses on modeling the spread of infectious diseases, simulating interventions and studying the effectiveness of these interventions on community based spread of diseases. Using these studies, Akshada plans on strengthening the simulation-based decision making support system.

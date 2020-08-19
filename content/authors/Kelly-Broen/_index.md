@@ -21,18 +21,19 @@ organizations:
 # bio: 
 
 # List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
+interests:
+- Spatial Epidemiology
+- Transmission Modeling
+- Infectious Diseases
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+  courses:
+  - course: BS Human Health and Quantitative Sciences
+    institution: Emory University
+    year: 2017
+  - course: MPH Epidemiology
+    institution: University of Michigan
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
