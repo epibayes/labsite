@@ -17,7 +17,7 @@ organizations:
 - name: University of Michigan
   # url: ""
 
-Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 bio: UI/UX and Front-end Design. Wears many hats.
 
 # List each interest with a dash
