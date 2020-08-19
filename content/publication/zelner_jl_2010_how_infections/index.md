@@ -3,7 +3,7 @@ title: "How Infections Propagate After Point-Source Outbreaks"
 authors:
 - admin
 date: "2010-09-21T00:00:00Z"
-doi: "https://journals.lww.com/epidem/Fulltext/2010/09000/How_Infections_Propagate_After_Point_Source.26.aspx"
+doi: "https://doi.org/10.1097/ede.0b013e3181e5463a"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-18T00:00:00Z"
