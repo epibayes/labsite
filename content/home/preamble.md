@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure library="true" src="logo.png" title="Epibayes" >}}
+{{< figure library="true" src="logo.png">}}
 
-Welcome to the the Epibayes Lab.
+<div style="text-align: center">Welcome to the the Epibayes Lab.</div>
