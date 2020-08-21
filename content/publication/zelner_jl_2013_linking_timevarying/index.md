@@ -20,9 +20,12 @@ publication_short: PLoS One
 
 abstract: "Background: Norovirus (NoV) transmission may be impacted by changes in symptom intensity. Sudden onset of vomiting, which may cause an initial period of hyper-infectiousness, often marks the beginning of symptoms. This is often followed by: a 1–3 day period of milder symptoms, environmental contamination following vomiting, and post-symptomatic shedding that may result in transmission at progressively lower rates. Existing models have not included time-varying infectiousness, though representing these features could add utility to models of NoV transmission.
 
+
 Methods: We address this by comparing the fit of three models (Models 1–3) of NoV infection to household transmission data from a 2009 point-source outbreak of GII.12 norovirus in North Carolina. Model 1 is an SEIR compartmental model, modified to allow Gamma-distributed sojourn times in the latent and infectious classes, where symptomatic cases are uniformly infectious over time. Model 2 assumes infectiousness decays exponentially as a function of time since onset, while Model 3 is discontinuous, with a spike concentrating 50% of transmissibility at onset. We use Bayesian data augmentation techniques to estimate transmission parameters for each model, and compare their goodness of fit using qualitative and quantitative model comparison. We also assess the robustness of our findings to asymptomatic infections.
 
+
 Results: We find that Model 3 (initial spike in shedding) best explains the household transmission data, using both quantitative and qualitative model comparisons. We also show that these results are robust to the presence of asymptomatic infections.
+
 
 Conclusions: Explicitly representing explosive NoV infectiousness at onset should be considered when developing models and interventions to interrupt and prevent outbreaks of norovirus in the community. The methods presented here are generally applicable to the transmission of pathogens that exhibit large variation in transmissibility over an infection."
 
