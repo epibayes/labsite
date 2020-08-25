@@ -48,9 +48,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=8v9CnvcAAAAJ&hl=en&oi=sra
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/
