@@ -10,29 +10,30 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Doctoral Student 
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: University of Michigan Department of Epidemiology
   # url: ""
 
-# Short bio (displayed in user profile at end of posts)
-# bio: 
+Short bio (displayed in user profile at end of posts)
+bio: Nina is a doctoral candidate in Epidemiology at the University of Michigan. Her research focuses on spatial transmission models infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. 
 
 # List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
+interests:
+- Vaccine Policy
+- Spatial Epidemiology
+- Infectious Disease Dynamics
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+  courses:
+  - course: AB Chemistry and Materials Engineering
+    institution: Princeton University
+    year: 2014
+  - course: MPH Global Health Epidemiology
+    institution: University of Michigan
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,20 +43,23 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/USERNAME
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/knowyourvax
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OMatXSwAAAAJ&hl=en&oi=ao
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/USERNAME
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mastersnina
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nina-masters-7111017b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Nina_Masters_CV_8_2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
