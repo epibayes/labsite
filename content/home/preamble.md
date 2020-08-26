@@ -29,10 +29,13 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-#  image = "headers/bubbles-wide.jpg"  # Name of image in `static/media/`.
+  image = "logo_transparent_smaller.jpg"  
+  # Name of image in `static/media/`.
 #  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-#  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-#  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_size = "cover"  
+  # Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "left"  
+  # Options include `left`, `center` (default), or `right`.
 #  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
@@ -49,8 +52,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{< figure library="true" src="logo_transparent_smaller.png#floatleft">}}
 We are a multidisciplinary research group focused on unraveling the drivers of infectious disease transmission as well as socially and spatially disparate outcomes in infection, morbidity and mortality. This work covers a broad array of pathogens ranging from **tuberculosis** to **influenza**, **diarrheal disease**, **COVID-19**, and others. Methodologically, our work sits at the interface between infectious disease data and statistical and simulation models. We are motivated by a strong commitment to global and domestic health equity backed by rigorous analysis.
 
 
