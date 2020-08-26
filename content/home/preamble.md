@@ -50,6 +50,7 @@ subtitle = ""
 <div style = "float: left">
 {{< figure library="true" src="logo_transparent_smaller.png" >}}
 </div>
+
 We are a multidisciplinary research group focused on unraveling the drivers of infectious disease transmission as well as socially and spatially disparate outcomes in infection, morbidity and mortality. This work covers a broad array of pathogens ranging from **tuberculosis** to **influenza**, **diarrheal disease**, **COVID-19**, and others. Methodologically, our work sits at the interface between infectious disease data and statistical and simulation models. We are motivated by a strong commitment to global and domestic health equity backed by rigorous analysis.
 
 
