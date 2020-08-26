@@ -17,7 +17,7 @@ organizations:
 - name: University of Michigan Department of Epidemiology
   # url: ""
 
-Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 bio: Nina is a doctoral candidate in Epidemiology at the University of Michigan. Her research focuses on spatial transmission models infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. 
 
 # List each interest with a dash
