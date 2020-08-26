@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "50px", "20px", "50px"]
+  padding = ["20px", "60px", "20px", "60px"]
 
 [advanced]
  # Custom CSS. 
@@ -57,5 +57,5 @@ subtitle = ""
 <div style="text-align: center">We are a multidisciplinary research group focused on unraveling the drivers of infectious disease transmission as well as socially and spatially disparate outcomes in infection, morbidity and mortality. This work covers a broad array of pathogens ranging from tuberculosis to influenza, diarrheal disease, COVID-19, and others. Methodologically, our work sits at the interface between infectious disease data and statistical and simulation models. We are motivated by a strong commitment to global and domestic health equity backed by rigorous analysis.</div>
 
 <br>
-<div style="text-align: center">Our work covers a broad array of methods and pathogens, but is grounded in the underlying philosophy of<b>Bayesian inference</b>. This means that we focus on the integration of sources of data across biological, social, and spatial scales, using models that can account for the information and uncertainty associated with these different sources. Because of this, our work is informed by ideas and data from an array of fields including infectious disease epidemiology, molecular genotyping/genomics, spatial statistics, data science, environmental epidemiology, clinical medicine, and others.
+<div style="text-align: center">Our work covers a broad array of methods and pathogens, but is grounded in the underlying philosophy of <b>Bayesian inference</b>. This means that we focus on the integration of sources of data across biological, social, and spatial scales, using models that can account for the information and uncertainty associated with these different sources. Because of this, our work is informed by ideas and data from an array of fields including infectious disease epidemiology, molecular genotyping/genomics, spatial statistics, data science, environmental epidemiology, clinical medicine, and others.
 </div>
