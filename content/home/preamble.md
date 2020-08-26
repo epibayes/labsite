@@ -1,14 +1,19 @@
 +++
-# Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = ""
+subtitle = ""
 
-# Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "logo_transparent.png"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,36 +25,31 @@ hero_media = "logo_transparent.png"
   # color = "navy"
   
   # Background gradient.
-#  gradient_start = "#4bb4e3"
-#  gradient_end = "#2b94c3"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = ""  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+#  image = "headers/bubbles-wide.jpg"  # Name of image in `static/media/`.
+#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+#  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+#  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+
   # Text color (true=light or false=dark).
   text_color_light = false
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-# [cta]
-#  url = "https://sourcethemes.com/academic/docs/install/"
-#  label = "Get Started"
-#  icon_pack = "fas"
-#  icon = "download"
-  
-# [cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "60px", "20px", "60px"]
 
-# Note. An optional note to show underneath the links.
-# [cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[advanced]
+ # Custom CSS.
+ 
+ # CSS class.
 +++
+
+{{< figure library="true" class="alignleft" src="logo_transparent_smaller.png" >}}
+
 We are a multidisciplinary research group focused on unraveling the drivers of infectious disease transmission as well as socially and spatially disparate outcomes in infection, morbidity and mortality. This work covers a broad array of pathogens ranging from **tuberculosis** to **influenza**, **diarrheal disease**, **COVID-19**, and others. Methodologically, our work sits at the interface between infectious disease data and statistical and simulation models. We are motivated by a strong commitment to global and domestic health equity backed by rigorous analysis.
 
 
