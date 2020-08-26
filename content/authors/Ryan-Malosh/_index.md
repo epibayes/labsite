@@ -14,7 +14,7 @@ role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  University of Michigan
+- name:  University of Michigan School of Public Health
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,14 +25,14 @@ organizations:
 # - Interest 1
 # - Interest 2
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+  courses:
+  - course: MPH
+    institution:  Boston University
+    year: 2009
+  - course: PhD
+    institution: University of Michigan
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,9 +42,9 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/USERNAME
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/rmalosh
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=e9oZqAgAAAAJ

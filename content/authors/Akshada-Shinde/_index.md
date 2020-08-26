@@ -14,7 +14,7 @@ role: Masters Student
 
 # Organizations/Affiliations
 organizations:
-- name:  University of Michigan
+- name:  University of Michigan Department of Biomedical Engineering
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
