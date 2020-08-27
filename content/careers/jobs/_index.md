@@ -5,7 +5,7 @@ summary:
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Open Positions
 date: "2020-08-27T00:00:00Z"
 lastmod: "2020-08-27T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -20,3 +20,5 @@ menu:
     name: Open Positions
     weight: 1
 ---
+## Work with the EpiBayes Research Group
+Open positions will be listed when they are available.
