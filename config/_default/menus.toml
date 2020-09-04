@@ -34,7 +34,7 @@
   weight = 60
 
 [[main]]
-  name = "News/Media"
+  name = "News and Media"
   url = "newsmedia/"
   weight = 70
 
