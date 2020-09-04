@@ -4,7 +4,7 @@ subtitle: originally published online on August 30, 2020 on [mLive](https://www.
 summary: 
 authors: ['Samuel Dodge sdodge@mlive.com']
 tags: ['coronavirus', 'COVID-19', 'Michigan']
-categories: []
+categories: ["Jon Zelner"]
 date: "2020-08-30T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"
 featured: true
