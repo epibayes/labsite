@@ -2,7 +2,7 @@
 title: 'Still stuck on back-to-school? What Michigan health experts are deciding for their own kids'
 subtitle: originally published online on August 30, 2020 on [mLive](https://www.mlive.com/coronavirus/2020/08/still-stuck-on-back-to-school-what-michigan-health-experts-are-deciding-for-their-own-kids.html)
 summary: 
-authors: ['Samuel Dodge [sdodge@mlive.com](http://connect.mlive.com/staff/sdodge/posts.html)']
+authors: ['Samuel Dodge sdodge@mlive.com']
 tags: ['coronavirus', 'COVID-19', 'Michigan']
 categories: []
 date: "2020-08-30T00:00:00Z"

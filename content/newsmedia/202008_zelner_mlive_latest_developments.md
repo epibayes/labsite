@@ -2,7 +2,7 @@
 title: 'Monday, Aug. 31: Latest developments on coronavirus in Michigan'
 subtitle: originally published online on August 31, 2020 on [mLive](https://www.mlive.com/news/2020/08/monday-aug-31-latest-developments-on-coronavirus-in-michigan.html)
 summary: 
-authors: ['Roberto Acosta [racosta1@mlive.com](http://connect.mlive.com/staff/racosta2/posts.html)']
+authors: ['Roberto Acosta racosta1@mlive.com']
 tags: ['coronavirus', 'COVID-19', 'Michigan']
 categories: []
 date: "2020-08-31T00:00:00Z"
