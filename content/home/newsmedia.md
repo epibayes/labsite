@@ -8,11 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "News and Media"
-subtitle = "All of Jon's articles can be found [at this Google News link](https://news.google.com/search?q=Jon%20Zelner&hl=en-US&gl=US&ceid=US%3Aen).
-
-All of Nina's articles can be found [at this Google News link](https://news.google.com/search?q=Nina%20Masters&hl=en-US&gl=US&ceid=US%3Aen).
-
-All of Ryan's articles can be found [at this Google News link](https://news.google.com/search?q=Ryan%20Malosh&hl=en-US&gl=US&ceid=US%3Aen)."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -70,3 +66,8 @@ All of Ryan's articles can be found [at this Google News link](https://news.goog
  # CSS class.
  css_class = ""
 +++
+All of Jon's articles can be found [at this Google News link](https://news.google.com/search?q=Jon%20Zelner&hl=en-US&gl=US&ceid=US%3Aen).
+
+All of Nina's articles can be found [at this Google News link](https://news.google.com/search?q=Nina%20Masters&hl=en-US&gl=US&ceid=US%3Aen).
+
+All of Ryan's articles can be found [at this Google News link](https://news.google.com/search?q=Ryan%20Malosh&hl=en-US&gl=US&ceid=US%3Aen).
