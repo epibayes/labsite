@@ -5,7 +5,7 @@ summary:
 authors: 
   - Ryan-Malosh
   - Nina-Masters
-tags: ['coronavirus', 'COVID-19', 'Campus', 'Michigan', 'University of Michigan', 'community spread']
+tags: ['coronavirus', 'COVID-19', 'Campus', 'Michigan', 'University of Michigan', 'community spread', 'article']
 categories: ["Nina Masters", "Ryan Malosh"]
 date: "2020-09-02T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"

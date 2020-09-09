@@ -3,7 +3,7 @@ title: "‘Our Biggest Fear’: What Outbreaks on 3 Campuses Say About the Pande
 subtitle: originally published online on September 3, 2020 on [The Chronicle of Higher Education](https://www.chronicle.com/article/our-biggest-fear-what-outbreaks-on-3-campuses-say-about-the-pandemic-this-fall)
 summary: 
 authors: ['Francie Diep ']
-tags: ['coronavirus', 'COVID-19', 'public health']
+tags: ['coronavirus', 'COVID-19', 'public health', 'article']
 categories: ["Jon Zelner"]
 date: "2020-08-31T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"

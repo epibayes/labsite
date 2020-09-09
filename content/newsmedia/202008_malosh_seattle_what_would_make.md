@@ -3,7 +3,7 @@ title: "What would make it safe to reopen Washington's schools with COVID-19 sti
 subtitle: originally published online on August 21, 2020 on [The Seattle Times](https://www.seattletimes.com/education-lab/what-would-make-it-safe-to-reopen-washingtons-schools-with-covid-19-still-a-threat-in-short-its-up-to-everybody/)
 summary: 
 authors: ['Hannah Furfaro hfurfaro@seattletimes.com', 'Ryan Blethen rblethen@seattletimes.com']
-tags: ['coronavirus', 'COVID-19', 'Washington']
+tags: ['coronavirus', 'COVID-19', 'Washington', 'article']
 categories: ["Ryan Malosh"]
 date: "2020-08-21T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"
