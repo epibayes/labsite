@@ -6,7 +6,8 @@ authors:
   - Ryan-Malosh
   - Nina-Masters
 tags: ['coronavirus', 'COVID-19', 'Campus', 'Michigan', 'University of Michigan', 'community spread']
-categories: ["Nina Masters", "Ryan Malosh", "newsmedia"]
+categories: ["Nina Masters", "Ryan Malosh"]
+publication_type: 'newsmedia'
 date: "2020-09-02T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"
 featured: true

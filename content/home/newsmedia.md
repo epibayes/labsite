@@ -26,8 +26,8 @@ subtitle = "Our team's press interviews and articles"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "newsmedia"
-    publication_type = ""
+    category = ""
+    publication_type = "newsmedia"
     author = ""
     exclude_featured = false
   

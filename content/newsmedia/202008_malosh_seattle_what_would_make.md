@@ -4,7 +4,8 @@ subtitle: originally published online on August 21, 2020 on [The Seattle Times](
 summary: 
 authors: ['Hannah Furfaro hfurfaro@seattletimes.com', 'Ryan Blethen rblethen@seattletimes.com']
 tags: ['coronavirus', 'COVID-19', 'Washington']
-categories: ["Ryan Malosh", "newsmedia"]
+categories: ["Ryan Malosh"]
+publication_type: 'newsmedia'
 date: "2020-08-21T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"
 featured: true
