@@ -35,7 +35,7 @@
 
 [[main]]
   name = "News and Media"
-  url = "talk/"
+  url = "newsmedia/"
   weight = 70
 
 [[main]]
