@@ -5,7 +5,6 @@ summary:
 authors: ['Roberto Acosta racosta1@mlive.com']
 tags: ['coronavirus', 'COVID-19', 'Michigan']
 categories: ["Jon Zelner"]
-publication_type: 'newsmedia'
 date: "2020-08-31T00:00:00Z"
 lastMod: "2020-09-04T00:00:00Z"
 featured: true
