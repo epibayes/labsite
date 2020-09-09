@@ -5,7 +5,7 @@ summary: Make sure it runs.
 authors:
 - admin
 tags: []
-categories: []
+categories: ["post"]
 date: "2016-06-03T00:00:00Z"
 lastMod: "2020-08-18T00:00:00Z"
 featured: true

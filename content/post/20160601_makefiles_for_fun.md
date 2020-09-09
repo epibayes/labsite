@@ -5,7 +5,7 @@ summary: All about Makefiles
 authors:
 - admin
 tags: []
-categories: []
+categories: ["post"]
 date: "2016-06-01T00:00:00Z"
 lastMod: "2020-08-18T00:00:00Z"
 featured: true

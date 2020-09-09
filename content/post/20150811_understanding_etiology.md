@@ -5,7 +5,7 @@ summary: Etiology and TB
 authors:
 - admin
 tags: []
-categories: []
+categories: ["post"]
 date: "2015-08-11T00:00:00Z"
 lastMod: "2020-08-18T00:00:00Z"
 featured: true

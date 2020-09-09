@@ -5,7 +5,7 @@ summary: Socioeconomic status impacts disease transmission
 authors:
 - admin
 tags: []
-categories: []
+categories: ["post"]
 date: "2016-01-08T00:00:00Z"
 lastMod: "2020-08-18T00:00:00Z"
 featured: true
