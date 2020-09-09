@@ -6,7 +6,6 @@ tags = []
 title = "News and Media"
 math = true
 summary = "Our team’s press interviews and articles"
-"""
 
 [header]
 image = ""
