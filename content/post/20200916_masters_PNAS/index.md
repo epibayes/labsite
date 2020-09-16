@@ -32,7 +32,7 @@ High coverage with **measles-containing-vaccine (MCV)** is necessary because of 
 
 The Vc can be expressed in terms of the Ro and vaccine efficacy (V<sub>E</sub>):
 
-$$V_{c} = \frac{\frac{1-\frac{1}{R_{0}}}{V_{E}}$$ 
+$$V_{c} = \frac{\frac{1-}{\frac{1}{R_{0}}}}{V_{E}}$$ 
 
 This formula makes a key assumption: that the population is evenly mixed - all individuals contact each other with equal likelihood. However, when non-vaccinated individuals are geographically clustered, the formula **can underestimate the V<sub>c</sub>, meaning that outbreaks remain possible despite vaccination coverage targets being met or exceeded**, as we saw in 2019.  
 
