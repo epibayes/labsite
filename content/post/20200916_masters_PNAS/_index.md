@@ -30,7 +30,8 @@ Even though US measles **vaccination rates** were on average **higher than 95%**
 High coverage with **measles-containing-vaccine (MCV)** is necessary because of how contagious measles is – it has a basic reproduction number (R<sub>0</sub>) of 12-18: among the highest known values for any infectious disease.  Because of how infectious measles is, the proportion of the population that needs to be vaccinated or have natural immunity from prior disease to prevent outbreaks, known as the c**ritical vaccination fraction (V<sub>c</sub>)**, is around **94-95%**.
 
 The Vc can be expressed in terms of the Ro and vaccine efficacy (V<sub>E</sub>):
-$$V_c=\frac{(1-1/R_0 )/V_E}$$ 
+
+$$V_c = \frac{\frac{1-1}{R_0}}{V_E}}$$ 
 
 This formula makes a key assumption: that the population is evenly mixed - all individuals contact each other with equal likelihood. However, when non-vaccinated individuals are geographically clustered, the formula **can underestimate the V<sub>c</sub>, meaning that outbreaks remain possible despite vaccination coverage targets being met or exceeded**, as we saw in 2019.  
 
