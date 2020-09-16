@@ -1,5 +1,5 @@
 ---
-title: T"he Backstory: Rising Cases of Measles Despite High Vaccination Coverage"
+title: "The Backstory: Rising Cases of Measles Despite High Vaccination Coverage"
 subtitle: originally published online on September 16, 2020 at https://knowyourvax.com/
 summary: 
 authors:
