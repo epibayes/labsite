@@ -38,7 +38,7 @@ tags:
 - Secondary Norovirus
 - Disease Transmission
 
-featured: true
+featured: false
 
 links:
 - name: Online Access

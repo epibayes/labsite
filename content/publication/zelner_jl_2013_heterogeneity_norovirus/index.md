@@ -31,7 +31,7 @@ tags:
 - Risk factors
 - Virus shedding
 
-featured: true
+featured: false
 
 links:
 - name: Online Access

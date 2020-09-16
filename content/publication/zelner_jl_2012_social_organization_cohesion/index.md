@@ -30,7 +30,7 @@ tags:
 - Rural
 - Ecuador
 
-featured: true
+featured: false
 
 links:
 - name: Online Access
