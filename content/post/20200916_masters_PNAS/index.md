@@ -28,7 +28,7 @@ projects: []
 ---
 Even though US measles **vaccination rates** were on average **higher than 95%**, which is the WHO vaccination coverage target and threshold for **maintaining herd immunity** for measles, there were 1,282 cases of measles in 31 states in 2019.
 
-High coverage with measles-containing-vaccine (MCV) is necessary because of how contagious measles is – it has a basic reproduction number (R0) of 12-18: among the highest known values for any infectious disease.  Because of how infectious measles is, the proportion of the population that needs to be vaccinated or have natural immunity from prior disease to prevent outbreaks, known as the **critical vaccination fraction (V<sub>c</sub>)**, is around **94-95%**.
+High coverage with measles-containing-vaccine (MCV) is necessary because of how contagious measles is – it has a basic reproduction number (R<sub>0</sub>) of 12-18: among the highest known values for any infectious disease.  Because of how infectious measles is, the proportion of the population that needs to be vaccinated or have natural immunity from prior disease to prevent outbreaks, known as the **critical vaccination fraction (V<sub>c</sub>)**, is around **94-95%**.
 
 The V<sub>c</sub> can be expressed in terms of the R<sub>o</sub> and vaccine efficacy (V<sub>E</sub>):
 
