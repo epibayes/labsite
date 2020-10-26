@@ -1,7 +1,7 @@
 ---
 title: "Fine-scale spatial clustering of measles nonvaccination that increases outbreak potential is obscured by aggregated reporting data"
 subtitle: originally published online at [https://knowyourvax.com/](https://knowyourvax.com/2020/10/26/fine-scale-spatial-clustering-of-measles-nonvaccination-that-increases-outbreak-potential-is-obscured-by-aggregated-reporting-data/)
-summary: 
+summary: "The Backstory: Rising Cases of Measles Despite High Vaccination Coverage"
 authors:
 - Nina-Masters
 tags: [coronavirus, measles, vaccination, herd immunity, measles-containing-vaccine]
