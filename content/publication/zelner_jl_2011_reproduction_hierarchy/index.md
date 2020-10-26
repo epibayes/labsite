@@ -36,7 +36,7 @@ tags:
 - Computational legal studies
 - Law as a commplex system
 
-featured: true
+featured: false
 
 links:
 - name: Online Access

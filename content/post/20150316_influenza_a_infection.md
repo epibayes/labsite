@@ -8,7 +8,7 @@ tags: []
 categories: ["post"]
 date: "2015-03-16T00:00:00Z"
 lastMod: "2020-08-18T00:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
