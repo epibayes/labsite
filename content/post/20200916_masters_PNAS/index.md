@@ -62,7 +62,7 @@ Within this environment, we created clustering motifs (patterns of clustering) t
 We modeled measles using a dynamic transmission model on this grid, a standard modeling technique for infectious diseases like measles, where individuals can pass through 3 states: susceptible (i.e. not yet infected), infectious, and recovered (or vaccinated, in this case). Read more here.
 
 ### What did we find?
-1. ***More clustering* of unvaccinated individuals leads to *higher outbreak probability* and *larger outbreak size.***
+1. **<i>More clustering</i> of unvaccinated individuals leads to *higher outbreak probability* and <i>larger outbreak size.</i>**
 
 *Without clustering,* overall vaccination coverage of 94% and higher *upheld herd immunity* (i.e. there were no outbreaks). However, once we introduced clustering, even 99% overall vaccination allowed breakthrough outbreaks. <i><u>As clustering increased, outbreaks were more likely to happen, and were larger.</u></i>
 
@@ -91,10 +91,10 @@ Our results show that failing to account for fine-scale spatial clustering in th
 
 Aggregating data strongly biases predicted outbreak size because it *obscures this fine-scale clustering.* This has important consequences for vaccine-coverage data in the US, highlighting that finer-scale data are needed to fully understand the risk of outbreaks of measles and other vaccine-preventable diseases. Vaccination data is collected at the school-level for school entry requirements, but publicly released data instead are presented at much higher levels – usually at the county or state level. This represents a significant lost opportunity for improving surveillance, because if that finer scale data were readily available, we would be able to assess community risk much more clearly. 
 
-## Strengths and Limitations
+### Strengths and Limitations
 As with all studies, our research has both strengths and limitations. A major strength is that this simple model helps to explain how clustering impacts outbreak potential. While the simplicity is a strength in communicating the value of this research, it also carries limitations; this model does not represent what true cities and social networks look like. We also used a model without an incubation period, which wouldn’t change the total number of cases but doesn’t perfectly represent how measles is transmitted.
 
-## The Takeaways
+### The Takeaways
 1. The assumptions underlying the critical vaccination fraction (specifically that vaccination coverage is homogeneous) result in significant underestimation of the true number of individuals who need to be vaccinated to prevent outbreaks.
 2.	Fine-scale clustering produced scenarios with the greatest outbreak potential.
 3.	Since fine-scale vaccination data is not broadly available in the US, it’s difficult to allocate resources, plan vaccination strategies, and respond to imported measles cases in a way that is responsive this type of localized clustering.
