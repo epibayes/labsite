@@ -1,5 +1,5 @@
 ---
-title: "Acute respiratory infections and Streptococcus pneumoniae Carriage"
+title: "Racial disparities in COVID-19 mortality are driven by unequal infection risks"
 authors:
 - admin
 - Rob-Trangucci
