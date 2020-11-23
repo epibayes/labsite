@@ -64,7 +64,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Alumni
 ---
 
 Akshada's current research focuses on modeling the spread of infectious diseases, simulating interventions and studying the effectiveness of these interventions on community based spread of diseases. Using these studies, Akshada plans on strengthening the simulation-based decision making support system.

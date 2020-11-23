@@ -8,7 +8,7 @@ tags: [coronavirus, measles, vaccination, herd immunity, measles-containing-vacc
 categories: ["post"]
 date: "2020-10-26T00:00:00Z"
 lastMod: "2020-10-09T00:00:00Z"
-featured: true
+featured: false
 draft: false
 markup: mmark
 
