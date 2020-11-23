@@ -28,11 +28,14 @@ publication_short: Clin. Infect. Dis.
 abstract: "Background:
 As of November 1, 2020, there have been more than 230K deaths and 9M confirmed and probable cases attributable to SARS-CoV-2 in the United States. However, this overwhelming toll has not been distributed equally, with geographic, race-ethnic, age, and socioeconomic disparities in exposure and mortality defining features of the U.S. COVID-19 epidemic.
 
+
 Methods:
 We used individual-level COVID-19 incidence and mortality data from the U.S. state of Michigan to estimate age-specific incidence and mortality rates by race/ethnic group. Data were analyzed using hierarchical Bayesian regression models, and model results were validated using posterior predictive checks.
 
+
 Results:
 In crude and age-standardized analyses we found rates of incidence and mortality more than twice as high than Whites for all groups except Native Americans. Blacks experienced the greatest burden of confirmed and probable COVID-19 infection (Age-standardized incidence = 1,626/100,000 population) and mortality (age-standardized mortality rate 244/100,000). These rates reflect large disparities, as Blacks experienced age-standardized incidence and mortality rates 5.5 (95% Posterior Credible Interval [CrI] = 5.4, 5.6) and 6.7 (95% CrI = 6.4, 7.1) times higher than Whites, respectively. We found that the bulk of the disparity in mortality between Blacks and Whites is driven by dramatically higher rates of COVID-19 infection across all age groups, particularly among older adults, rather than age-specific variation in case-fatality rates.
+
 
 Conclusions:
 This work suggests that well-documented racial disparities in COVID-19 mortality in hard-hit settings, such as the U.S. state of Michigan, are driven primarily by variation in household, community and workplace exposure rather than case-fatality rates."
