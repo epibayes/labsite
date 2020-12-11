@@ -49,7 +49,7 @@ tags:
 - Social Epidemiology
 - Disparities
 
-featured: true
+featured: false
 
 links:
 - name: Online Access
