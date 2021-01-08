@@ -23,21 +23,22 @@ publication_short: Int J Health Geogr
 abstract: "Background
 
 
+
 Like many scientific fields, epidemiology is addressing issues of research reproducibility. Spatial epidemiology, which often uses the inherently identifiable variable of participant address, must balance reproducibility with participant privacy. In this study, we assess the impact of several different data perturbation methods on key spatial statistics and patient privacy.
 
-
+<br/>
 Methods
 
 
 We analyzed the impact of perturbation on spatial patterns in the full set of address-level mortality data from Lawrence, MA during the period from 1911 to 1913. The original death locations were perturbed using seven different published approaches to stochastic and deterministic spatial data anonymization. Key spatial descriptive statistics were calculated for each perturbation, including changes in spatial pattern center, Global Moran’s I, Local Moran’s I, distance to the k-th nearest neighbors, and the L-function (a normalized form of Ripley’s K). A spatially adapted form of k-anonymity was used to measure the privacy protection conferred by each method, and its compliance with HIPAA and GDPR privacy standards.
 
-
+<br/>
 Results
 
 
 Random perturbation at 50 m, donut masking between 5 and 50 m, and Voronoi masking maintain the validity of descriptive spatial statistics better than other perturbations. Grid center masking with both 100 × 100 and 250 × 250 m cells led to large changes in descriptive spatial statistics. None of the perturbation methods adhered to the HIPAA standard that all points have a k-anonymity > 10. All other perturbation methods employed had at least 265 points, or over 6%, not adhering to the HIPAA standard.
 
-
+<br/>
 Conclusions
 
 
