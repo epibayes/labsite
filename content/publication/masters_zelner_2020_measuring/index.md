@@ -34,7 +34,7 @@ tags:
 - Spatial Clustering
 - Theil Index
 - Vaccine Exemptions
-featured: true
+featured: false
 
 links:
 - name: Online Access
