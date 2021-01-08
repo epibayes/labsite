@@ -30,6 +30,7 @@ Like many scientific fields, epidemiology is addressing issues of research repro
 
 
 
+
 Methods
 
 
@@ -39,10 +40,12 @@ We analyzed the impact of perturbation on spatial patterns in the full set of ad
 
 
 
+
 Results
 
 
 Random perturbation at 50 m, donut masking between 5 and 50 m, and Voronoi masking maintain the validity of descriptive spatial statistics better than other perturbations. Grid center masking with both 100 × 100 and 250 × 250 m cells led to large changes in descriptive spatial statistics. None of the perturbation methods adhered to the HIPAA standard that all points have a k-anonymity > 10. All other perturbation methods employed had at least 265 points, or over 6%, not adhering to the HIPAA standard.
+
 
 
 
