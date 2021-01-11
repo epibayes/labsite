@@ -17,7 +17,7 @@ organizations:
 - name:  University of Michigan Department of Epidemiology
   # url: ""
 
-Short bio (displayed in user profile at end of posts)
+#Short bio (displayed in user profile at end of posts)
 bio: Joey is a postdoctoral fellow in the Epidemiology department at the University of Michigan.
 
 # List each interest with a dash
