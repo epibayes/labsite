@@ -1,5 +1,5 @@
 ---
-title: " Likelihood and model fit: A visual tour"
+title: "Likelihood and model fit: A visual tour"
 authors:
 - admin
 date: "2021"
