@@ -30,7 +30,7 @@ tags:
 - COVID-19
 - Mortality
 
-featured: 
+featured: false
 
 links:
 # - name: Online Access
