@@ -17,10 +17,9 @@ weight = 120
 <div align="center">
 <h2 align="center">Funding</h2>
 
-{{< figure library="true" src="simons-logo.png" style="width:200px">}}
+<img src="simons-logo.png" alt="logo of simons foundation" width="200px"/>
 <h3 align="center">The Simons Foundation</h3>
 
-
-{{< figure library="true" src="cdc-logo.png" style="width:200px">}}
+<img src="cdc-logo.png" alt="logo of simons foundation" width="200px"/>
 <h3 align="center">The Center for Disease Control and Prevention</h3>
 </div>
