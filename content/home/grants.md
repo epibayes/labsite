@@ -17,10 +17,10 @@ weight = 120
 
 ### __Funding__
 
-![Logo of the Simons Foundation](/static/img/simons-logo.png)
+![Logo of the Simons Foundation](static/img/simons-logo.png)
 #### __Simons Foundation__
 
-![Logo of the CDC](/static/img/cdc-logo.png)
+![Logo of the CDC](static/img/cdc-logo.png)
 #### __Center for Disease Control and Prevention__
 
 
