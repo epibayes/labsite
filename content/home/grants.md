@@ -17,13 +17,11 @@ weight = 120
 
 ### __Funding__
 
-![Logo of the Simons Foundation](../../static/img/simons-logo.png)
+{{< figure library="true" src="simons-logo.png" title="Logo of the Simons Foundation" >}}
 #### __Simons Foundation__
 
-![Logo of the CDC](../../static/img/cdc-logo.png)
+{{< figure library="true" src="cdc-logo.png" title="Logo of the CDC" >}}
 #### __Center for Disease Control and Prevention__
-
-
 <!-- ### __Intern Talentedge Program__
 
 - __Year:__ 2017-2019
