@@ -14,15 +14,17 @@ subtitle = ""
 weight = 120
 
 +++
-
-### __Funding__
 <div align="center">
-{{< figure library="true" src="simons-logo.png" >}}
+<h2 align="center">Funding</h2>
+
+{{< figure library="true" src="simons-logo.png" style="width:350px">}}
 <h3 align="center">The Simons Foundation</h3>
 
-{{< figure library="true" src="cdc-logo.png">}}
+
+{{< figure library="true" src="cdc-logo.png" style="width:350px">}}
 <h3 align="center">The Center for Disease Control and Prevention</h3>
 </div>
+
 <!-- ### __Intern Talentedge Program__
 
 - __Year:__ 2017-2019
