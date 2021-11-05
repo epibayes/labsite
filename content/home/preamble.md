@@ -60,13 +60,13 @@ Our work covers a broad array of methods and pathogens, but is grounded in the u
 </div>
 
 <div align="center">
-<h2 align="center">Funding</h2>
+<h3 align="center">Funding</h3>
 
 <img src="/img/simons-logo.png" alt="logo of simons foundation" width="200px"/>
-<h3 align="center">The Simons Foundation</h3>
+<h4 align="center">The Simons Foundation</h4>
 
 <br/>
 
 <img src="/img/cdc-logo.png" alt="logo of cdc" width="200px"/>
-<h3 align="center">The Center for Disease Control and Prevention</h3>
+<h4 align="center">The Center for Disease Control and Prevention</h4>
 </div>
