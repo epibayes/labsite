@@ -58,3 +58,15 @@ We are a multidisciplinary research group focused on unraveling the drivers of i
 
 Our work covers a broad array of methods and pathogens, but is grounded in the underlying philosophy of **Bayesian inference**. This means that we focus on the integration of sources of data across biological, social, and spatial scales, using models that can account for the information and uncertainty associated with these different sources. Because of this, our work is informed by ideas and data from an array of fields including infectious disease epidemiology, molecular genotyping/genomics, spatial statistics, data science, environmental epidemiology, clinical medicine, and others.
 </div>
+
+<div align="center">
+<h2 align="center">Funding</h2>
+
+<img src="/img/simons-logo.png" alt="logo of simons foundation" width="200px"/>
+<h3 align="center">The Simons Foundation</h3>
+
+<br/>
+
+<img src="/img/cdc-logo.png" alt="logo of cdc" width="200px"/>
+<h3 align="center">The Center for Disease Control and Prevention</h3>
+</div>

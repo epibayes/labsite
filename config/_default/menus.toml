@@ -50,11 +50,11 @@
   url = "/team"
   weight = 80
 
-[[main]]
-  identifier = "grants"
-  name = "Grants and Funding"
-  url = "#grants"
-  weight = 90
+#[[main]]
+#  identifier = "grants"
+#  name = "Grants and Funding"
+#  url = "#grants"
+#  weight = 90
 
 [[main]]
   identifier = "contact"
