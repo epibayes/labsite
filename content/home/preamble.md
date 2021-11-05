@@ -60,9 +60,9 @@ Our work covers a broad array of methods and pathogens, but is grounded in the u
 </div>
 
 <div align="center">
-<h3 align="center">Funding</h3>
+<h3 align="center" style="padding-bottom: 15px">Funding</h3>
 
-<div style="display: flexbox !important; justify-content: space-around !important; align-items: center !important;">
+<div style="display: flex !important; justify-content: space-around !important; align-items: center !important;">
 <div>
 <img src="/img/simons-logo.png" alt="logo of simons foundation" width="200px"/>
 <h4 align="center">The Simons Foundation</h4>
