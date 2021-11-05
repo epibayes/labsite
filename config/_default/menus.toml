@@ -24,15 +24,13 @@
   identifier = "publications"
   name = "Publications"
   url = "publication/"
-  parent="projects"
-  weight = 1
+  weight = 40
 
 [[main]]
   identifier = "talk"
   name = "Talks and Tutorials"
-  url = "talk/"
-  parent="projects"  
-  weight = 2
+  url = "talk/" 
+  weight = 50
 
 [[main]]
   identifier = "careers"
