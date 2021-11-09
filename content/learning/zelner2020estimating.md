@@ -1,7 +1,7 @@
 ---
 title: Estimating treatment effects from observational spatial data using a difference-in-differences approach
 linktitle: Estimating treatment effects from observational spatial data using a difference-in-differences approach
-toc: true
+toc: false
 type: docs
 date: "2020"
 draft: false
@@ -9,7 +9,7 @@ authors:
 - admin
 menu:
   example:
-    parent: Learning
+    parent: Talks and Tutorials
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -53,3 +53,5 @@ links:
 # slides: "content/slides/zelner_2020_cscs_seminar/zelner_cscs_seminar"
 ---
 For most problems involving some kind of spatial exposure, e.g. to a neighborhood environment, it is either unethical, impractical, or impossible to randomize people to different neighborhoods. So, what happens when high- or low-risk individuals are overrepresented in one group vs. another?
+
+[Check out the full tutorial here.](https://jzelner.shinyapps.io/diff-in-diff/)

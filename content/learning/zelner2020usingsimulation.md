@@ -1,7 +1,7 @@
 ---
 title: Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference
 linktitle: Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference
-toc: true
+toc: false
 type: docs
 date: "2020"
 draft: false
@@ -9,7 +9,7 @@ authors:
 - admin
 menu:
   example:
-    parent: Learning
+    parent: Talks and Tutorials
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -69,3 +69,5 @@ links:
 # slides: "content/slides/zelner_2020_cscs_seminar/zelner_cscs_seminar"
 ---
 In this example, we’re going to go back to basics, and use both a formula and simulation to calculate confidence intervals for a sample mean. So, first, pick a mean and standard deviation and number of samples to draw from a Normal distribution.
+
+[Check out the full tutorial here.](https://jzelner.shinyapps.io/simulation_inference)

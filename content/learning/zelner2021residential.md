@@ -1,7 +1,7 @@
 ---
 title: How does residential segregation impact infection risk? An interactive exploration
 linktitle: How does residential segregation impact infection risk? An interactive exploration
-toc: true
+toc: false
 type: docs
 date: "2021"
 draft: false
@@ -9,7 +9,7 @@ authors:
 - admin
 menu:
   example:
-    parent: Learning
+    parent: Talks and Tutorials
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -77,3 +77,5 @@ To do this, we’ll build on the framework developed by Acevedo-Garcia (2000) to
 
 
 Specifically, we’ll first walk through the hypothesized relationships between segregation and patterns of contact. We’ll then take a hands-on approach to understanding the way different intensities and modalities of segregation impact patterns of within and between-group contact. Finally, we’ll put these contact patterns into an infectious disease transmission model and look at their implications for risk, both at the population and group level.
+
+[Check out the full tutorial here.](https://sph-umich.shinyapps.io/segregation-transmission/)

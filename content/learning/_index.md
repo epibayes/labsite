@@ -17,8 +17,10 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Learning
+    name: Projects
     weight: 1
+    name: Talks and Tutorials
+    weight: 2
 ---
 ## Summary of Learning section content
 A list of projects, talks, tutorials, and other resources developed by Epibayes Lab.

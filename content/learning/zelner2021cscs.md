@@ -1,7 +1,7 @@
 ---
 title: What can epidemiological models tell us about infection inequality?
 linktitle: What can epidemiological models tell us about infection inequality?
-toc: true
+toc: false
 type: docs
 date: "2021"
 draft: false
@@ -9,7 +9,7 @@ authors:
 - admin
 menu:
   example:
-    parent: Learning
+    parent: Talks and Tutorials
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
