@@ -1,12 +1,12 @@
 ---
-title: Publications
+# title: Publications
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 2
+# # View.
+# #   1 = List
+# #   2 = Compact
+# #   3 = Card
+# #   4 = Citation
+# view: 2
 
 # Course title, summary, and position.
 linktitle: Publications
