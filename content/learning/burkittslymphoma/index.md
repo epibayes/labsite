@@ -4,7 +4,10 @@ summary: About Burkitts Lymphoma
 tags:
 - Epidemiology
 date: "2016-04-27T00:00:00Z"
-
+menu:
+  example:
+    parent: Learning
+    weight: 1
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

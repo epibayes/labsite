@@ -1,13 +1,16 @@
 ---
-title: "Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference"
+title: "Likelihood and model fit: A visual tour"
 authors:
 - admin
-date: "2020"
+date: "2021"
 # doi: "https://doi.org/10.1186/s12942-020-00256-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-12T00:00:00Z"
-
+publishDate: "2021-03-11T00:00:00Z"
+menu:
+  example:
+    parent: Learning
+    weight: 3
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -18,22 +21,24 @@ publishDate: "2021-03-12T00:00:00Z"
 # publication: International Journal of Health Geographics
 # publication_short: Int J Health Geogr
 
-abstract: "In this example, we’re going to go back to basics, and use both a formula and simulation to calculate confidence intervals for a sample mean. So, first, pick a mean and standard deviation and number of samples to draw from a Normal distribution."
+abstract: "Likelihood is a concept that underlies most statistical modeling that falls under the heading of [generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model) or GLMs. 
+
+
+When we fit any kind of statistical model to a dataset, the goal is to find solutions that either maximize the likelihood of the data, given the model (under a frequentist, maximum likelihood estimation framework), or maximize the likelihood of the data given the data and some prior information on the value of the parameters (under a more Bayesian framework).In this tutorial, we will introduce some key concepts and tools for smoothing and visualizing potentially non-linear data. We will focus on local regression techniques for continuous outcomes, e.g. BMI, blood pressure, etc, in in one dimension, e.g. in response to some exposure, and in two dimensions representing x and y spatial coordinates. In a future tutorial we will look at complementary approaches to spatial density estimation which let us estimate the probability of an event occurring in space that build on the concepts discussed in this tutorial."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Tutorial
-- Bayesian
-- Normal distribution
-- Confidence Interval
+- Likelihood
+- Non-linear data
 
 featured: false
 
 links:
 - name: Online Tutorial
-  url: https://jzelner.shinyapps.io/simulation_inference
+  url: https://sph-umich.shinyapps.io/modelfit/
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'

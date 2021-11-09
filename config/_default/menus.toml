@@ -15,9 +15,9 @@
 #  weight = 20
 
 [[main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "projects/"
+  identifier = "learning"
+  name = "Learning"
+  url = "learning/"
   weight = 30
 
 [[main]]
@@ -26,11 +26,11 @@
   url = "publication/"
   weight = 40
 
-[[main]]
-  identifier = "talk"
-  name = "Talks and Tutorials"
-  url = "talk/" 
-  weight = 50
+#[[main]]
+#  identifier = "talk"
+#  name = "Talks and Tutorials"
+#  url = "talk/" 
+#  weight = 50
 
 [[main]]
   identifier = "careers"

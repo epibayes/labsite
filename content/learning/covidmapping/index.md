@@ -6,7 +6,10 @@ tags:
 - Epidemiology
 
 date: "2020-08-18T00:00:00Z"
-
+menu:
+  example:
+    parent: Learning
+    weight: 2
 # Optional external URL for project (replaces project detail page).
 external_link: https://covidmapping.org/
 image:

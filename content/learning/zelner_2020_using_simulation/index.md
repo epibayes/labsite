@@ -1,12 +1,16 @@
 ---
-title: "What can epidemiological models tell us about infection inequality?"
+title: "Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference"
 authors:
 - admin
-date: "2021-03-09T00:00:00Z"
+date: "2020"
 # doi: "https://doi.org/10.1186/s12942-020-00256-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-11T00:00:00Z"
+publishDate: "2021-03-12T00:00:00Z"
+menu:
+  example:
+    parent: Learning
+    weight: 3
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,29 +22,28 @@ publishDate: "2021-03-11T00:00:00Z"
 # publication: International Journal of Health Geographics
 # publication_short: Int J Health Geogr
 
-abstract: Socioeconomic and racial inequalities in infection and mortality have been key features of the COVID-19 pandemic in the United States. While identifying these disparities is critical, it has also become clear that we lack the theoretical and methodological tools to integrate the mechanisms generating these inequities into models of infectious disease transmission. This is a huge gap, as such models have become key tools in developing policy and evaluating the impact of interventions ranging from social distancing to vaccination. In this talk, I will outline some of the work done by my research group that is focused on understanding the mechanistic drivers of spatial and socioeconomic variation in infection and death from SARS-CoV-2 in Michigan (see e.g. [covidmapping.org](covidmapping.org)) and conduct a walk-through of an interactive example of a model that attempts to integrate a key driver of infection inequality - residential segregation - into a model of infectious disease transmission. For more information, please visit our lab group site at [epibayes.io](epibayes.io).
+abstract: "In this example, we’re going to go back to basics, and use both a formula and simulation to calculate confidence intervals for a sample mean. So, first, pick a mean and standard deviation and number of samples to draw from a Normal distribution."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Seminar
-- Socioeconomic inequality
-- Racial disparity
-- COVID-19
-- Mortality
+- Tutorial
+- Bayesian
+- Normal distribution
+- Confidence Interval
 
 featured: false
 
 links:
-# - name: Online Access
-#   url: https://link.springer.com/article/10.1186/s12942-020-00256-8
+- name: Online Tutorial
+  url: https://jzelner.shinyapps.io/simulation_inference
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: 'zelner_cscs_seminar.pdf'
+# url_slides: 'zelner_cscs_seminar.pdf'
 # url_source: '#'
 # url_video: '#'
 
