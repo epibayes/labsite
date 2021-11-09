@@ -1,16 +1,19 @@
 ---
-title: "What can epidemiological models tell us about infection inequality?"
+title: What can epidemiological models tell us about infection inequality?
+linktitle: What can epidemiological models tell us about infection inequality?
+toc: true
+type: docs
+date: "2021"
+draft: false
 authors:
 - admin
-date: "2021-03-09T00:00:00Z"
-# doi: "https://doi.org/10.1186/s12942-020-00256-8"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-11T00:00:00Z"
 menu:
   example:
     parent: Learning
     weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,8 +25,6 @@ menu:
 # publication: International Journal of Health Geographics
 # publication_short: Int J Health Geogr
 
-abstract: Socioeconomic and racial inequalities in infection and mortality have been key features of the COVID-19 pandemic in the United States. While identifying these disparities is critical, it has also become clear that we lack the theoretical and methodological tools to integrate the mechanisms generating these inequities into models of infectious disease transmission. This is a huge gap, as such models have become key tools in developing policy and evaluating the impact of interventions ranging from social distancing to vaccination. In this talk, I will outline some of the work done by my research group that is focused on understanding the mechanistic drivers of spatial and socioeconomic variation in infection and death from SARS-CoV-2 in Michigan (see e.g. [covidmapping.org](covidmapping.org)) and conduct a walk-through of an interactive example of a model that attempts to integrate a key driver of infection inequality - residential segregation - into a model of infectious disease transmission. For more information, please visit our lab group site at [epibayes.io](epibayes.io).
-
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -33,8 +34,6 @@ tags:
 - Racial disparity
 - COVID-19
 - Mortality
-
-featured: false
 
 links:
 # - name: Online Access
@@ -69,3 +68,4 @@ url_slides: 'zelner_cscs_seminar.pdf'
 #   Otherwise, set `slides: ""`.
 # slides: "content/slides/zelner_2020_cscs_seminar/zelner_cscs_seminar"
 ---
+ Socioeconomic and racial inequalities in infection and mortality have been key features of the COVID-19 pandemic in the United States. While identifying these disparities is critical, it has also become clear that we lack the theoretical and methodological tools to integrate the mechanisms generating these inequities into models of infectious disease transmission. This is a huge gap, as such models have become key tools in developing policy and evaluating the impact of interventions ranging from social distancing to vaccination. In this talk, I will outline some of the work done by my research group that is focused on understanding the mechanistic drivers of spatial and socioeconomic variation in infection and death from SARS-CoV-2 in Michigan (see e.g. [covidmapping.org](covidmapping.org)) and conduct a walk-through of an interactive example of a model that attempts to integrate a key driver of infection inequality - residential segregation - into a model of infectious disease transmission. For more information, please visit our lab group site at [epibayes.io](epibayes.io).

@@ -1,16 +1,21 @@
 ---
-title: "How does residential segregation impact infection risk? An interactive exploration"
+title: How does residential segregation impact infection risk? An interactive exploration
+linktitle: How does residential segregation impact infection risk? An interactive exploration
+toc: true
+type: docs
+date: "2021"
+draft: false
 authors:
 - admin
-date: "2021"
-# doi: "https://doi.org/10.1186/s12942-020-00256-8"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-11T00:00:00Z"
 menu:
   example:
     parent: Learning
     weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
+
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -21,13 +26,7 @@ menu:
 # publication: International Journal of Health Geographics
 # publication_short: Int J Health Geogr
 
-abstract: "In this tutorial, we’re going to walk through ways in which patterns of residential segregation may impact infectious disease risk through two different pathways, contact and susceptibility, and how that is likely to impact spatial and socioeconomic patterns of infection incidence.
 
-
-To do this, we’ll build on the framework developed by Acevedo-Garcia (2000) to relate the social processes governing and generating residential segregation to the biological manifestations of disease.
-
-
-Specifically, we’ll first walk through the hypothesized relationships between segregation and patterns of contact. We’ll then take a hands-on approach to understanding the way different intensities and modalities of segregation impact patterns of within and between-group contact. Finally, we’ll put these contact patterns into an infectious disease transmission model and look at their implications for risk, both at the population and group level."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,7 +36,6 @@ tags:
 - Residential segregation
 - Infectious disease transmission
 
-featured: false
 
 links:
 - name: Online Tutorial
@@ -72,3 +70,10 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: "content/slides/zelner_2020_cscs_seminar/zelner_cscs_seminar"
 ---
+In this tutorial, we’re going to walk through ways in which patterns of residential segregation may impact infectious disease risk through two different pathways, contact and susceptibility, and how that is likely to impact spatial and socioeconomic patterns of infection incidence.
+
+
+To do this, we’ll build on the framework developed by Acevedo-Garcia (2000) to relate the social processes governing and generating residential segregation to the biological manifestations of disease.
+
+
+Specifically, we’ll first walk through the hypothesized relationships between segregation and patterns of contact. We’ll then take a hands-on approach to understanding the way different intensities and modalities of segregation impact patterns of within and between-group contact. Finally, we’ll put these contact patterns into an infectious disease transmission model and look at their implications for risk, both at the population and group level.

@@ -1,16 +1,19 @@
 ---
-title: "Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference"
+title: Smoothing! An interactive tutorial approach to univariate and spatial interpolation
+linktitle: Smoothing! An interactive tutorial approach to univariate and spatial interpolation
+toc: true
+type: docs
+date: "2021"
+draft: false
 authors:
 - admin
-date: "2020"
-# doi: "https://doi.org/10.1186/s12942-020-00256-8"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-12T00:00:00Z"
 menu:
   example:
     parent: Learning
     weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,22 +25,19 @@ menu:
 # publication: International Journal of Health Geographics
 # publication_short: Int J Health Geogr
 
-abstract: "In this example, we’re going to go back to basics, and use both a formula and simulation to calculate confidence intervals for a sample mean. So, first, pick a mean and standard deviation and number of samples to draw from a Normal distribution."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Tutorial
-- Bayesian
-- Normal distribution
-- Confidence Interval
+- Non-linear data
+- Spatial Density
 
-featured: false
 
 links:
 - name: Online Tutorial
-  url: https://jzelner.shinyapps.io/simulation_inference
+  url: https://sph-umich.shinyapps.io/smoothing/
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
@@ -68,3 +68,4 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: "content/slides/zelner_2020_cscs_seminar/zelner_cscs_seminar"
 ---
+In this tutorial, we will introduce some key concepts and tools for smoothing and visualizing potentially non-linear data. We will focus on local regression techniques for continuous outcomes, e.g. BMI, blood pressure, etc, in in one dimension, e.g. in response to some exposure, and in two dimensions representing x and y spatial coordinates. In a future tutorial we will look at complementary approaches to spatial density estimation which let us estimate the probability of an event occurring in space that build on the concepts discussed in this tutorial.

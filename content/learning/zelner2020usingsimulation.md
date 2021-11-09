@@ -1,16 +1,19 @@
 ---
-title: "Estimating treatment effects from observational spatial data using a difference-in-differences approach"
+title: Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference
+linktitle: Using simulation to understand frequentist confidence intervals and Bayesian credible intervals as tools for inference
+toc: true
+type: docs
+date: "2020"
+draft: false
 authors:
 - admin
-date: "2020"
-# doi: "https://doi.org/10.1186/s12942-020-00256-8"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-12T00:00:00Z"
 menu:
   example:
     parent: Learning
     weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,20 +25,19 @@ menu:
 # publication: International Journal of Health Geographics
 # publication_short: Int J Health Geogr
 
-abstract: "For most problems involving some kind of spatial exposure, e.g. to a neighborhood environment, it is either unethical, impractical, or impossible to randomize people to different neighborhoods. So, what happens when high- or low-risk individuals are overrepresented in one group vs. another?"
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Tutorial
-- Spatial data
-
-featured: false
+- Bayesian
+- Normal distribution
+- Confidence Interval
 
 links:
 - name: Online Tutorial
-  url: https://jzelner.shinyapps.io/diff-in-diff/
+  url: https://jzelner.shinyapps.io/simulation_inference
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
@@ -66,3 +68,4 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: "content/slides/zelner_2020_cscs_seminar/zelner_cscs_seminar"
 ---
+In this example, we’re going to go back to basics, and use both a formula and simulation to calculate confidence intervals for a sample mean. So, first, pick a mean and standard deviation and number of samples to draw from a Normal distribution.
