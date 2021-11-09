@@ -8,7 +8,7 @@ draft: false
 authors:
 - admin
 menu:
-  example:
+  learning:
     parent: Talks and Tutorials
     weight: 3
 
