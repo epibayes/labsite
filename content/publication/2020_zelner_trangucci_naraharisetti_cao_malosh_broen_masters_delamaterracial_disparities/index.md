@@ -1,5 +1,5 @@
 ---
-title: "Racial disparities in COVID-19 mortality are driven by unequal infection risks"
+title: "Racial Disparities in Coronavirus Disease 2019 (COVID-19) Mortality Are Driven by Unequal Infection Risks"
 authors:
 - admin
 - Rob-Trangucci
@@ -48,12 +48,18 @@ tags:
 - SARS-CoV-2
 - Social Epidemiology
 - Disparities
+- Michigan
+- Mortality
+- Case Fatality Rate
+- Health Disparity
+- Racial Disparity
+- Infections
 
 featured: false
 
 links:
 - name: Online Access
-  url: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1723/5998295
+  url: https://academic.oup.com/cid/article/72/5/e88/5998295?login=true
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
