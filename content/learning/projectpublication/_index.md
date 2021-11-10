@@ -1,12 +1,12 @@
 
 ---
 # Course title, summary, and position.
-linktitle: Projects
-summary: Various projects brought to you by Epibayes Lab.
+linktitle: Projects and Publications
+summary: Various projects and publications brought to you by Epibayes Lab.
 weight: 1
 
 # Page metadata.
-title: Projects
+title: Projects and Publications
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   learning:
-    name: Projects
+    name: Projects and Publications
     weight: 1
 ---
 
@@ -63,4 +63,4 @@ Or, if you are creating a software documentation site, you can rename the `cours
 If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`. -->
 
 ---
-Take a look at some of the projects we have worked on.
+Take a look at some of the projects we have worked on. Read up on our publications to learn more about our research.
