@@ -1,5 +1,5 @@
 ---
-title: "Fine-scale spatial clustering of measles nonvaccination that increases outbreak potential is obscured by aggregated reporting data"
+title: "Prenatal and early-life exposure to the Great Chinese Famine increased the risk of tuberculosis in adulthood across two generations"
 authors:
 - "Qu Cheng"
 - Rob-Trangucci
