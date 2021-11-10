@@ -20,7 +20,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Populations and Evolution
-publication_short: "q-bio.PE"
+publication_short: Q Bio PE
 
 abstract: "Mathematical models have come to play a key role in global pandemic preparedness and outbreak response: helping to plan for disease burden, hospital capacity, and inform non-pharmaceutical interventions. Such models have played a pivotal role in the COVID-19 pandemic, with transmission models and, by consequence, modelers guiding global, national, and local responses to SARS-CoV-2. However, these models have systematically failed to account for the social and structural factors which lead to socioeconomic, racial, and geographic health disparities. Why do epidemiologic models of emerging infections ignore known structural drivers of disparate health outcomes? What have been the consequences of this limited framework? What should be done to develop a more holistic approach to modeling-based decision-making during pandemics? In this Perspective, we evaluate potential historical and political explanations for the exclusion of drivers of disparity in infectious disease models for emerging infections, which have often been characterized as "equal opportunity infectors" despite ample evidence to the contrary. We look to examples from other disease systems (HIV, STIs) as a potential blueprint for how social connections, environmental, and structural factors can be integrated into a coherent, rigorous, and interpretable modeling framework. We conclude by outlining principles to guide modeling of emerging infections in ways that represent the causes of inequity in infection as central rather than peripheral mechanisms."
 
