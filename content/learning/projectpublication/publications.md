@@ -14,7 +14,7 @@ menu:
 weight: 4
 
 ---
-A detailed overview of individual publications can be found on our [publications page](publication/). Check the list below for direct links to publications.
+A detailed overview of individual publications can be found on our [publications page](~/publication/). Check the list below for direct links to publications.
 
 ## 2021
 - [Measuring the impact of spatial perturbations on the relationship between data privacy and validity of descriptive statistics](https://link.springer.com/article/10.1186/s12942-020-00256-8)
