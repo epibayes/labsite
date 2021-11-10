@@ -2,13 +2,13 @@
 title: "There are no equal opportunity infectors: Epidemiological modelers must rethink our approach to inequality in infection risk"
 authors:
 - admin
-- Nina-Masters
-- Ramya-Naraharisetti
+- "Nina-Masters"
+- "Ramya-Naraharisetti"
 - "Sanyu Mojola"
 - "Merlin Chowkwanyun"
 
 date: "2021-09-01T00:00:00Z"
-doi: ""
+doi: "https://arxiv.org/abs/2109.00580"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-01T00:00:00Z"
@@ -38,7 +38,7 @@ featured: false
 
 links:
 - name: Online Access
-  url: https://arxiv.org/abs/2109.00580
+  url: "https://arxiv.org/abs/2109.00580"
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
