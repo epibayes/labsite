@@ -44,3 +44,8 @@ A detailed overview of individual publications can be found on our [publications
 - [Towards a simulation framework for optimizing infectious disease surveillance: An information theoretic approach for surveillance system design](https://www.medrxiv.org/content/10.1101/2020.04.06.20048231v1)
 - [Preferential observation of large infectious disease outbreaks leads to consistent overestimation of intervention efficacy](https://www.medrxiv.org/content/10.1101/2020.11.02.20224832v1)
 - [Inequality in acute respiratory infection outcomes in the United States: A review of the literature and its implications for public health policy and practice](https://www.medrxiv.org/content/10.1101/2020.04.22.20069781v1)
+
+## 2019
+- [Evidence for heterogeneity in China’s progress against pulmonary tuberculosis: uneven reductions in a major center of ongoing transmission, 2005–2017](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-019-4262-2)
+- [Effects of Sequential Influenza A(H1N1)pdm09 Vaccination on Antibody Waning](https://academic.oup.com/jid/article/220/1/12/5306487?login=true)
+- [Social patterning of acute respiratory illnesses in the Household Influenza Vaccine Evaluation (HIVE) Study 2014–2015](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/social-patterning-of-acute-respiratory-illnesses-in-the-household-influenza-vaccine-evaluation-hive-study-20142015/B128D276F43887FD2ED24F2095020997)
