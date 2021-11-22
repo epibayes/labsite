@@ -4,7 +4,7 @@ authors:
 - admin
 - Rob-Trangucci
 - Ramya-Naraharisetti
-- Alex-Cao
+- "Alex Cao"
 - Ryan-Malosh
 - Kelly-Broen
 - Nina-Masters
