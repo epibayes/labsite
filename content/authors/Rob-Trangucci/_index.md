@@ -1,15 +1,15 @@
 ---
 # Display name
-title: "Rob Trangucci"
+title: Rob Trangucci
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
 - "Rob-Trangucci"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
+# Role/position
 role: PhD Candidate
 
 # Organizations/Affiliations
@@ -18,39 +18,37 @@ organizations:
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: Hannah is a doctoral student in Epidemiology at the University of Michigan School of Public Health.
 
-# List each interest with a dash
 # interests:
-# - Interest 1
-# - Interest 2
+# - Infectious disease dynamics
+# - Social epidemiology
+# - Public health practice
 
 # education:
 #   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+#   - course: MPH Hospital and Molecular Epidemiology
+#     institution: University of Michigan School of Public Health
+#     year: 2018
+#   - course: BA Biology
+#     institution: Wesleyan University
+#     year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/USERNAME
 # - icon: google-scholar
 #   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=PERSON-ID
+#   link: https://scholar.google.com/citations?user=7D1f6b8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/rtrangucci
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/hannahsteinberg/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,5 +63,5 @@ social:
 user_groups:
 - Team
 ---
-
 Rob is a PhD candidate in the Statistics department at the University of Michigan. His current research focuses on developing novel Bayesian statistical methodology for problems in epidemiology, and creating tools to understand how modeling assumptions impact inference. He has also done research in survey methodology. He got his Master’s in Quantitative Methods in the Social Sciences from Columbia University and his BA in Physics from Bucknell University.
+
