@@ -1,18 +1,16 @@
 ---
-title: Publications
-linktitle: Publications
-toc: true
-type: docs
-date: "2019-10-23T00:00:00+01:00"
-draft: false
+title: Our Publications
+date: '2021-01-01'
+type: book
+weight: 20
+highlight: false
+tags:
+  - COVID-19
+  - Epidemiology
 menu:
   learning:
     parent: Projects and Publications
     weight: 4
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
-
 ---
 A detailed overview of individual publications can be found on our [publications page](../../../publication/). Check the list below for direct links to publications.
 

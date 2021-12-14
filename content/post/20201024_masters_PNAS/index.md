@@ -1,30 +1,12 @@
 ---
 title: "Fine-scale spatial clustering of measles nonvaccination that increases outbreak potential is obscured by aggregated reporting data"
 subtitle: originally published online at [https://knowyourvax.com/](https://knowyourvax.com/2020/10/26/fine-scale-spatial-clustering-of-measles-nonvaccination-that-increases-outbreak-potential-is-obscured-by-aggregated-reporting-data/)
-summary: "The Backstory: Rising Cases of Measles Despite High Vaccination Coverage"
 authors:
 - Nina-Masters
 tags: [coronavirus, measles, vaccination, herd immunity, measles-containing-vaccine]
-categories: ["post"]
-date: "2020-10-26T00:00:00Z"
-lastMod: "2020-10-09T00:00:00Z"
-featured: false
-draft: false
-markup: mmark
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2020-10-24
 image:
-  caption: "A spliced-together image of the measles virus and coronavirus. Images from the CDC Image Library"
-  focal_point: "center"
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  focal_point: "top"
 ---
 ## The Backstory: Rising Cases of Measles Despite High Vaccination Coverage
 

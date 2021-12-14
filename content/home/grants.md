@@ -1,27 +1,25 @@
-+++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = false
-date = 2016-04-20T00:00:00
+---
+widget: blank
+headless: true
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Funding and Grants"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 120
-
-+++
-<div align="center">
-<h2 align="center">Funding</h2>
-
+# ... Put Your Section Options Here (title etc.) ...
+title: Grants
+subtitle:
+weight: 20  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+---
+<center>
+<div style="display: flex !important; justify-content: space-around !important; align-items: center !important;">
+<div style="display: flex !important; flex-direction: column !important; justify-content: center !important; align-items: center !important;">
 <img src="/img/simons-logo.png" alt="logo of simons foundation" width="200px"/>
-<h3 align="center">The Simons Foundation</h3>
-
-<br/>
-
-<img src="/img/cdc-logo.png" alt="logo of cdc" width="200px"/>
-<h3 align="center">The Center for Disease Control and Prevention</h3>
+<h4 align="center">The Simons Foundation</h4>
 </div>
+<div style="display: flex !important; flex-direction: column !important; justify-content: center !important; align-items: center !important;">
+<img src="/img/cdc-logo.png" alt="logo of cdc" width="200px"/>
+<h4 align="center">The Center for Disease Control and Prevention</h4>
+</div>
+
+</div>
+</center>

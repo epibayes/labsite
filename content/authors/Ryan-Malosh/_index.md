@@ -1,15 +1,15 @@
 ---
 # Display name
-title: "Ryan Malosh"
+title: Ryan Malosh
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
 - "Ryan-Malosh"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
+# Role/position
 role: Assistant Research Scientist
 
 # Organizations/Affiliations
@@ -18,12 +18,12 @@ organizations:
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+# bio: Hannah is a doctoral student in Epidemiology at the University of Michigan School of Public Health.
 
-# List each interest with a dash
 # interests:
-# - Interest 1
-# - Interest 2
+# - Infectious disease dynamics
+# - Social epidemiology
+# - Public health practice
 
 education:
   courses:
@@ -34,23 +34,18 @@ education:
     institution: University of Michigan
     year: 2015
 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rmalosh
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=e9oZqAgAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,5 +60,5 @@ social:
 user_groups:
 - Former Members
 ---
-
 Dr. Malosh is an Assistant Research Scientist at the University of Michigan School of Public Health. He is currently leading studies of herd immunity resulting from influenza vaccination of household contacts. Additional research interests include respiratory virus epidemiology and prevention, vaccine uptake, and social determinants of infectious disease. He is currently working on studies of COVID-19 in the household and community settings, with a particular focus on non-pharmaceutical interventions.
+
