@@ -2,7 +2,7 @@
 title: "A guide to backward paper writing for the data sciences"
 authors:
 - admin
-- Kelly-Broen
+- "Kelly-Broen"
 - "Ella August"
 
 date: "2022-01-03T00:00:00Z"
