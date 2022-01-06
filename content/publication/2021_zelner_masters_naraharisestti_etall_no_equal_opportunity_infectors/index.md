@@ -2,8 +2,8 @@
 title: "There are no equal opportunity infectors: Epidemiological modelers must rethink our approach to inequality in infection risk"
 authors:
 - admin
-- Nina-Masters
-- Ramya-Naraharisetti
+- "Nina-Masters"
+- "Ramya-Naraharisetti"
 - "Sanyu Mojola"
 - "Merlin Chowkwanyun"
 
