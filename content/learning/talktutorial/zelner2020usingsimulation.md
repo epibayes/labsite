@@ -9,12 +9,12 @@ highlight: false
 tags:
   - Tutorial
   - Bayesian
-   - Normal distribution
+  - Normal distribution
   - Confidence Interval
 menu:
   learning:
     parent: Talks and Tutorials
-    weight: 3
+    weight: 1
 ---
 In this example, we’re going to go back to basics, and use both a formula and simulation to calculate confidence intervals for a sample mean. So, first, pick a mean and standard deviation and number of samples to draw from a Normal distribution.
 
