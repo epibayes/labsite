@@ -13,7 +13,7 @@ tags:
 menu:
   learning:
     parent: Talks and Tutorials
-    weight: 3
+    weight: 1
 ---
 Likelihood is a concept that underlies most statistical modeling that falls under the heading of [generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model) or GLMs. 
 

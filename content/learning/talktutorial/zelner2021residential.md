@@ -13,7 +13,7 @@ tags:
 menu:
   learning:
     parent: Talks and Tutorials
-    weight: 3
+    weight: 1
 ---
 In this tutorial, we’re going to walk through ways in which patterns of residential segregation may impact infectious disease risk through two different pathways, contact and susceptibility, and how that is likely to impact spatial and socioeconomic patterns of infection incidence.
 

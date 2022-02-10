@@ -12,7 +12,7 @@ tags:
 menu:
   learning:
     parent: Talks and Tutorials
-    weight: 3
+    weight: 1
 ---
 For most problems involving some kind of spatial exposure, e.g. to a neighborhood environment, it is either unethical, impractical, or impossible to randomize people to different neighborhoods. So, what happens when high- or low-risk individuals are overrepresented in one group vs. another?
 

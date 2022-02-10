@@ -10,6 +10,6 @@ tags:
 menu:
   learning:
     parent: Projects and Publications
-    weight: 3
+    weight: 2
 ---
 [COVID-19 Learning Modules](https://zeeelab.github.io/NIH-Modules/) are learning experiences that use dynamic animations and modeling to educate users about the spread of infectious disease.

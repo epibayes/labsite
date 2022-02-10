@@ -10,7 +10,7 @@ tags:
 menu:
   learning:
     parent: Projects and Publications
-    weight: 4
+    weight: 3
 ---
 A detailed overview of individual publications can be found on our [publications page](../../../publication/). Check the list below for direct links to publications.
 
@@ -18,7 +18,7 @@ A detailed overview of individual publications can be found on our [publications
 - [There are no equal opportunity infectors: Epidemiological modelers must rethink our approach to inequality in infection risk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009795)
 - [A guide to backward paper writing for the data sciences](https://www.cell.com/patterns/fulltext/S2666-3899(21)00306-8)
 
-## 2022
+## 2021
 - [Measuring the impact of spatial perturbations on the relationship between data privacy and validity of descriptive statistics](https://link.springer.com/article/10.1186/s12942-020-00256-8)
 - [Evaluating Michigan’s administrative rule change on nonmedical vaccine exemptions](https://publications.aap.org/pediatrics/article-abstract/148/3/e2021049942/181058/Evaluating-Michigan-s-Administrative-Rule-Change?redirectedFrom=fulltext)
 - [Pneumonia following symptomatic influenza infection among Nicaraguan children before and after introduction of the pneumococcal conjugate vaccine](https://academic.oup.com/jid/article-abstract/224/4/643/6044070)
