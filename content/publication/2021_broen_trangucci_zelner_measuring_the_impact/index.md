@@ -40,7 +40,7 @@ tags:
 - Spatial Anonymity
 - Reproducibility
 
-featured: true
+featured: false
 
 links:
 - name: Online Access
