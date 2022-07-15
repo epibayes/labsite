@@ -14,11 +14,11 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name:  University of Michigan Department of Epidemiology
+- name:  CDC
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Nina is a doctoral candidate in Epidemiology at the University of Michigan. Her research focuses on spatial transmission models infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. 
+bio: Nina is an Epidemic Intelligence Service Officer at the CDC.
 
 interests:
 - Vaccine Policy

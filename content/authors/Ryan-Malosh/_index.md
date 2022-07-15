@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Research Scientist
+# role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  University of Michigan School of Public Health
+- name:  MDHHS
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
