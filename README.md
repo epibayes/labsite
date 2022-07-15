@@ -115,7 +115,7 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
 - `index.md` - tells Hugo what kind of page it is (it's a widget-type page).
 - `<firstname>.md` - each lab member is given their own widget.
   - `weight: 1` - current lab members
-  - `weight: 1000` - former lab members
+  - `weight: 2` - former lab members
     - **note:** currently Nina's profile (`Nina.md`) also has a `title: Former Members` attribute. **MOVE THIS TITLE BASED ON ALPHABET ORDER OF FIRST NAME**. (i.e. if a hypothetic member "Anna" becomes a "Former Member", move the `title: Former Members` from Nina's file to Anna's file)
 #### The `post/` folder contains different blog posts made by lab members
 - `_index.md` - this file determines what shows up when navigating to the post page.
