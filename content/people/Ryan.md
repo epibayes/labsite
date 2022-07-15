@@ -3,6 +3,7 @@ widget: about
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+title: Former Member
 weight: 1000
 
 # Choose the user profile to display
