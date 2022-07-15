@@ -5,6 +5,8 @@
 Built with Hugo, so please take a look at [Hugo documentation](HUGOREADME.md)
 ### Downloading and Running:
 - `git clone` this repo and follow the instructions in the [Wowchemy Hugo documentation for starting up the server](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
+- You can run a local version by using `hugo server` and opening `localhost:1313` on your internet browser of choice.
+  - Make sure you have `hugo` installed to do this!!
 ### Pushing Changes:
 - **DO NOT PUSH TO MASTER BRANCH DIRECTLY!**
 - Push changes that ***won't break the site*** to the development branch
@@ -115,8 +117,8 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
 - `index.md` - tells Hugo what kind of page it is (it's a widget-type page).
 - `<firstname>.md` - each lab member is given their own widget.
   - `weight: 1` - current lab members
-  - `weight: 2` - former lab members
-    - **Note:** Add `title: Former Members` attribute to former members.
+  - `weight: 3` - former lab members
+- `Former.md` - used as a "header" between current and former members. Has `weight: 2` so it comes before former members and after currentmembers.
 #### The `post/` folder contains different blog posts made by lab members
 - `_index.md` - this file determines what shows up when navigating to the post page.
 - Each `<post name>/` folder contains at least an `index.md` file with the blog post.
