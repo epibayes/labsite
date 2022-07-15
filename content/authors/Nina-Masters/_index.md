@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+# role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,4 @@ social:
 user_groups:
 - Former Members
 ---
-Nina is a doctoral candidate in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. Her dissertation research focuses on spatial transmission models infectious diseases, the impact of clustered non-vaccination on outbreak risk, and the evolution of vaccine hesitancy. She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/).
+Nina is an Epidemic Intelligence Service Officer at the CDC. She received her PhD in Epidemiology at the University of Michigan. She did her MPH in Global Health Epidemiology at the University of Michigan and her bachelors in Chemistry and Materials Engineering at Princeton University. She is committed to improving disease outcomes of populations by highlighting and clarifying the role of spatial heterogeneity and untimely vaccination within and between communities. Her research interests include vaccine-preventable diseases; vaccine hesitancy; mathematical modeling; infectious disease dynamics; and vaccine interventions.  She is passionate about science communication and seeks to make epidemiologic research accessible with her [blog](https://knowyourvax.com/).
