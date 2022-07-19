@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: UI/UX designer
+role: UI/UX Designer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: UI/UX and Front-end Design. Wears many hats.
+bio: UI/UX and Front-End. Wears many hats.
 
 interests:
 - Equitable Design
@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/stephparsed
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/stephparsed
 - icon: github
   icon_pack: fab
   link: https://github.com/choisteph
@@ -62,5 +62,5 @@ social:
 user_groups:
 - Team
 ---
-Stephanie is a UI/UX designer. She is interested in making accessible designs so a diverse group of people can use the services and sites she creates. She received her Master of Science from the University of Michigan School of Information. Her [portfolio site](choisteph.github.io), features some of the projects she has worked on.
+Stephanie is a UI/UX designer and Front-End Engineer. She is interested in making accessible designs so a diverse group of people can use the services and sites she creates. She received her Master of Science from the University of Michigan School of Information. Her [portfolio site](choisteph.github.io) features some of the projects she has worked on.
 

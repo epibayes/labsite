@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Research Scientist
+# role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  University of Michigan School of Public Health
+- name:  MDHHS
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,5 +60,4 @@ social:
 user_groups:
 - Former Members
 ---
-Dr. Malosh is an Assistant Research Scientist at the University of Michigan School of Public Health. He is currently leading studies of herd immunity resulting from influenza vaccination of household contacts. Additional research interests include respiratory virus epidemiology and prevention, vaccine uptake, and social determinants of infectious disease. He is currently working on studies of COVID-19 in the household and community settings, with a particular focus on non-pharmaceutical interventions.
-
+Dr. Malosh is an Infectious Disease Epidemiologist at MDHHS. During his time at UM, he lead studies of herd immunity resulting from influenza vaccination of household contacts. Additional research interests include respiratory virus epidemiology and prevention, vaccine uptake, and social determinants of infectious disease. He worked on studies of COVID-19 in the household and community settings, with a particular focus on non-pharmaceutical interventions.
