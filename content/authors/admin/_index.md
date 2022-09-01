@@ -6,7 +6,7 @@ title: Jon Zelner
 superuser: true
 
 # Role/position
-role: Assistant Professor 
+role: Associate Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -68,4 +68,4 @@ highlight_name: false
 user_groups:
 - Principal Investigator
 ---
-Jon is an Assistant Professor in the Department of Epidemiology and the [Center for Social Epidemiology and Population Health](https://sph.umich.edu/cseph/) at the University of Michigan. Dr. Zelner is an infectious disease epidemiologist whose research is focused on the intersection of social and biological mechanisms in spatiotemporal patterns of infectious disease transmission. His work covers a broad range of infections with a primary focus on respiratory infections including tuberculosis, influenza and COVID-19, as well as vaccine-preventible diseases and diarrheal disease.
+Jon is an Associate Professor in the Department of Epidemiology and the [Center for Social Epidemiology and Population Health](https://sph.umich.edu/cseph/) at the University of Michigan. Dr. Zelner is an infectious disease epidemiologist whose research is focused on the intersection of social and biological mechanisms in spatiotemporal patterns of infectious disease transmission. His work covers a broad range of infections with a primary focus on respiratory infections including tuberculosis, influenza and COVID-19, as well as vaccine-preventible diseases and diarrheal disease.
