@@ -50,7 +50,7 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
 - `contact.md` - has the details for the contact widget.
   - **To update contact info:** Update the SEO stuff at the `params.yaml` file
 #### The `home/` folder has the different content that shows up directly on the home page
-- `grants.md` - the different grants Epibayes Lab was granted
+- `grants.md` - the different grants/funding Epibayes Lab is supported by
   - **Images** are located under `static/img/`.
   - **Line 8** (`weight: 20`) determines how "high up" on the home page this section shows up (currently is the second element).
 - `image.md` - *switched active from `true` to `false`, left here for reference just in case the widget needs to be used*
