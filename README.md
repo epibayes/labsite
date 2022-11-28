@@ -35,6 +35,8 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
 - `_index.md` - the profile itself.
   - **IMPORTANT LINES:**
     - The line for `user_groups` (approximately between lines 60 and 70) is used to determine if the lab member is a regular member, Jon (principal investigator), or former member. This will change under which category the lab member shows up in on the main lab page. 
+    - Nov. 2022 EDIT: Former Member category has been removed from view, but people can still access former lab members' profiles by navigating to `/author/firstname-lastname`
+      - Former members can keep their folders in the `authors/` directory but **should not** receive a corresponding file in the `people/` folder.
 - `avatar.png` - the headshot
 #### The `careers/` folder holds potential open positions at the Epibayes Lab
 - `_index.md` - tells Hugo what kind of page it is (it's a "page"-type page).
@@ -118,7 +120,9 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
 - `<firstname>.md` - each lab member is given their own widget.
   - `weight: 1` - current lab members
   - `weight: 3` - former lab members
+    - Nov. 2022 EDIT: Former Member category has been removed from view.
 - `Former.md` - used as a "header" between current and former members. Has `weight: 2` so it comes before former members and after currentmembers.
+  - Nov. 2022 EDIT: Former Member category has been removed from view.
 #### The `post/` folder contains different blog posts made by lab members
 - `_index.md` - this file determines what shows up when navigating to the post page.
 - Each `<post name>/` folder contains at least an `index.md` file with the blog post.
