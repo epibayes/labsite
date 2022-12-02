@@ -7,7 +7,7 @@ weight: 2
 
 menu:
   learning:
-    name: Projects and Publications
+    name: Talks and Tutorials
     weight: 2
 
 ---

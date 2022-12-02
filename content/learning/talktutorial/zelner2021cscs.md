@@ -1,6 +1,6 @@
 ---
 title: What can epidemiological models tell us about infection inequality?
-date: '2021'
+date: '2021-03-09'
 authors:
   - admin
 type: book
