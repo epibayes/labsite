@@ -22,12 +22,12 @@ Built with Hugo, so please take a look at [Hugo documentation](HUGOREADME.md)
   - There are two active deploys: one for the [development branch](https://labdev.netlify.app/) and one for the [master branch](https://epibayes.io/)
 - - - -
 ## REPO CONTENTS
-Only listing files that have been interacted with. Compare with the repo at [starter-hugo-research-group](https://github.com/wowchemy/starter-hugo-research-group).
+Only listing files **that have been interacted with**. Compare with the repo at [starter-hugo-research-group](https://github.com/wowchemy/starter-hugo-research-group).
 ### CONFIGURATION (config)
 - `menu.yaml` - used to update what order each of the sections appears in the navigation bar
   - higher weight pushes content further rightwards
-- `config.yaml` - *only title was updated on line 6*
-- `params.yaml` - *SEO was updated (lines 15 to 36)*
+- `config.yaml` - *only title and baseURL were updated*
+- `params.yaml` - *SEO was updated, footer was updated*
 ### CONTENT
 Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widget/) for more options and details.
 #### The `authors/` folder holds each lab member's profile in its own folder
@@ -49,8 +49,7 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
     - **Use Headings!** These will auto-generate a table of contents.
 #### The `contact/` folder has two files that determine how the contacts page shows up
 - `index.md` -  tells Hugo what kind of page it is (it's a widget-type page).
-- `contact.md` - has the details for the contact widget.
-  - **To update contact info:** Update the SEO stuff at the `params.yaml` file
+- `contact.md` - has the details for the contact widget. Update lines under line 15 (the "content" line) to udpate information.
 #### The `home/` folder has the different content that shows up directly on the home page
 - `grants.md` - the different grants/funding Epibayes Lab is supported by
   - **Images** are located under `static/img/`.
@@ -122,7 +121,7 @@ Also reference [Wowchemy's widget documentation](https://wowchemy.com/docs/widge
   - `weight: 3` - former lab members
     - Nov. 2022 EDIT: Former Member category has been removed from view.
 - `Former.md` - used as a "header" between current and former members. Has `weight: 2` so it comes before former members and after currentmembers.
-  - Nov. 2022 EDIT: Former Member category has been removed from view.
+  - Nov. 2022 EDIT: Former Member category has been removed.
 #### The `post/` folder contains different blog posts made by lab members
 - `_index.md` - this file determines what shows up when navigating to the post page.
 - Each `<post name>/` folder contains at least an `index.md` file with the blog post.
