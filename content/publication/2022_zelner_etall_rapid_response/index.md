@@ -30,7 +30,7 @@ tags:
 - Transmission Models
 - Mechanistic infectious Disease Models
 
-featured: true
+featured: false
 
 links:
 - name: Online Access

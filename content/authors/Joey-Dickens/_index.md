@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+# role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,8 +18,7 @@ organizations:
   # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Joey is a postdoctoral fellow in the Epidemiology department at the University of Michigan.
-
+# bio: 
 # interests:
 # - Infectious disease dynamics
 # - Social epidemiology
@@ -63,4 +62,4 @@ education:
 user_groups:
 - Former Members
 ---
-Joey is a postdoctoral fellow in the Epidemiology department at the University of Michigan. Before joining Epibayes he completed his PhD in Statistics at UM. His thesis research developed novel methods for performing mediation and other mechanistic analyses with applications in neuroimaging and pharmacokinetic modeling. His first projects with Epibayes will involve modeling influenza transmission dynamics in order to better understand vaccine effectiveness and the risk of transmission from community and household contacts. 
+Joey was a postdoctoral fellow in the Epidemiology department at the University of Michigan. Before joining Epibayes he completed his PhD in Statistics at UM. His thesis research developed novel methods for performing mediation and other mechanistic analyses with applications in neuroimaging and pharmacokinetic modeling. His first projects with Epibayes will involve modeling influenza transmission dynamics in order to better understand vaccine effectiveness and the risk of transmission from community and household contacts. He currently works at Google.
