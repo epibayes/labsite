@@ -1,9 +1,9 @@
 ---
-title: All-Remote Post-Doctoral Fellow
-linktitle: All-Remote Post-Doctoral Fellow
+title: Post-Doctoral or Research Staff position modeling social inequity in infectious disease dynamics at the University of Michigan
+linktitle: Post-Doc Research Staff Position
 type: book
 weight: 2
-draft: true
+draft: false
 menu:
   careers:
     parent: Open Positions
@@ -11,14 +11,42 @@ menu:
 
 
 ---
-## Position Overview
-The EpiBayes research group, led by Dr. Jon Zelner in the Dept. of Epidemiology and Center for Social Epidemiology and Population Health (CSEPH) at the University of Michigan School of Public Health seeks a postdoctoral fellow to work with us on several projects relating to the transmission of SARS-CoV-2 and Influenza and estimates/projections of vaccine efficacy for both of these pathogens. Drs. Emily Martin and Arnold Monto, co-directors of the Michigan Influenza Center will serve as secondary advisors for this position along with additional collaboration from investigators in the Michigan Influenza Center and University of Michigan School of Medicine. The person holding this position will be responsible for the analysis and integration of data from a unique combination of data sources including community-based household cohort studies, clinical studies in outpatient and hospital settings, and state-wide public health surveillance of influenza and SARS-CoV-2 epidemiology.
+## Introduction
+The EpiBayes research group, led by [Dr. Jon Zelner](https://sph.umich.edu/faculty-profiles/zelner-jon.html) in the Dept. of Epidemiology and Center for Social Epidemiology and Population Health (CSEPH) at the University of Michigan School of Public Health, seeks a postdoctoral fellow or research staff member to work with us on a new, interdisciplinary, NIH-funded project focused on developing new ways of modeling infectious disease dynamics which account for the joint social and biological drivers of infection inequality.
 
-## About Us
-We are a multidisciplinary, highly-collaborative group, with close connections to other research groups performing primary data collection at the University of Michigan and other institutions. We are broadly interested in understanding and addressing the key sources of spatial and sociodemographic variation in infectious disease infection and transmission risks. Our work covers a wide array of pathogens including respiratory viruses (COVID-19, influenza, RSV), bacterial infections (tuberculosis, Meningitis B, MRSA) and pathogens causing diarrheal disease (noroviruses, *E. Coli*, all-cause diarrhea). The overarching theme uniting these projects is a focus on **the use of cutting-edge statistical and simulation methods to understand and positively impact socioeconomic disparities in global and domestic infection risk**.
+Please contact Jon Zelner ([jzelner@umich.edu](mailto:jzelner@umich.edu)) with any inquiries related to this position. If you ae interested in applying, please include a brief CV and a short description of your research interests and experiences.
 
-## Qualifications
-The ideal candidate for this position will have significant experience in statistical modeling of infectious disease transmission using detailed individual level data. Candidates must hold a PhD, but field of study is flexible (e.g. epidemiology, statistics, ecology, social science) with suitability assessed primarily as a function of skills and experience.
+## Position Description
+The overarching goal of this postdoctoral position will be to advance the use of mathematical and statistical models of infectious disease transmission as tools for anticipating and addressing socioeconomic and geographic inequalities in infectious disease morbidity and mortality, with a particular focus on the impact of these factors on minoritized and marginalized groups (e.g. race/ethnic, sex/gender minority groups as well as others with stigmatized identities). **This requires an individual who is methodologically and theoretically adventurous, committed to health justice, and who is excited to stake out new terrain in the world of infectious disease epidemiology and social epidemiology.**
 
-## Additional Details
-This position can be filled immediately, but the start date is flexible. The initial term of this position will be for two years, with the possibility of extension. This position will be **all-remote until June 2021**, with location thereafter to be determined in collaboration with the candidate and as a function of public health conditions. Interested candidates should send a brief inquiry and CV to Jon Zelner at jzelner@umich.edu.
+### Topic Areas
+Potential projects include (but are not limited to):
+
+* Development of theoretical models of the social dynamics of infectious disease transmission.
+* Spatial statistical models fit to complex spatiotemporal datasets, and other opportunities.
+
+Projects will have a primary focus on respiratory infections including SARS-CoV-2 and seasonal and pandemic influenza, but other infectious disease systems characterized by significant socioeconomic inequality are also potential foci.
+
+
+### Research and Mentorship Team
+The individual who fills this position will work directly with Dr. Zelner as well as key collaborators on the project at the University of Michigan School of Public Health including Dr. Marisa Eisenberg, Dr. Emily Martin, and Dr. Abram Wagner. This individual will also work with project partners Dr. Nigel Paneth at Michigan State University, Dr. Sanyu Mojola at Princeton University and Dr. Merlin Chowkwanyun at Columbia University’s Mailman School of Public Health.
+
+Please contact Jon Zelner ([jzelner@umich.edu](mailto:jzelner@umich.edu)) with any inquiries related to this position.
+
+
+### Responsibilities
+* Conduct collaborative research on the social determinants of inequity in infectious disease risks.
+* Develop novel quantitative models of infectious disease transmission that account for structural drivers of infection inequity.
+* Publication of peer-reviewed manuscripts.
+* Engagement with government and community stakeholders and partners.
+* Presentation of research at local, national and international conferences and meetings.
+
+## Required Qualifications
+* Candidates must hold a PhD in epidemiology, statistics, ecology, social science or related field at the time of appointment.
+* A long-term career interest in the social epidemiology of infectious disease, with a focus on some combination of infectious disease transmission modeling, spatial analysis, and Bayesian hierarchical modeling is essential.
+
+## Additional Information
+* This position is expected to be primarily in-person at the University of Michigan, Ann Arbor. However, flexibility around working hours, location, and travel for personal and professional reasons are core values of our research group.
+* This position can be filled immediately, but the start date is flexible.
+* The initial term of this position will be for two years, with the possibility of extension depending on funding availability and performance.
+* Michigan Public Health is seeking a dynamic staff member with a commitment to contributing to a diverse, equitable and inclusive environment for all members of our community.
